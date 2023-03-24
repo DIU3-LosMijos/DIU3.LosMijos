@@ -66,8 +66,8 @@ User Journey Map 2
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
 
->>> - Enlace al documento: 
->>> - Valoración final: 65 puntos. 
+>>> - Enlace al documento: https://github.com/DIU3-LosMijos/DIU3.LosMijos/blob/master/P1/Usability-review.pdf
+>>> - Valoración final: 65 puntos.
 >>> - Comentario sobre la valoración: El sitio web Artesanía Nazarí contiene numerosos defectos y problemas tanto visuales como funcionales, lo que convierte la experiencia de usuario en algo frustrante y muy alejado de una tendencia positiva a la hora de ultimar el proceso de compra de las entradas para las visitas a los talleres de artesanía nazarí. Cabe destacar lo delicado del proceso de compra, que contiene algunos fallos graves que pueden terminar por comprometer tanto a la empresa como a los clientes.
 
 
