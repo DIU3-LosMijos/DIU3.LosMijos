@@ -40,7 +40,7 @@ Persona 1
 
 ![Método UX](img/Persona_1.png)
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+>>> He seleccionado a esta persona porque se creo que corresponde con el perfil de alguien que podríamos esperar hoy en día en actividades turísticas de este estilo: una persona de mediana edad, posiblemente con familia y puede que ejerciendo en la artesanía desde joven o en otro campo artístico; ya sea por escapada, por inspirarse en otras obras artesanales o por pasar tiempo en familia.
 
 Persona 2
 
@@ -55,7 +55,7 @@ User Journey Map 1
 
 ![Método UX](img/JourneyMap_1.png)
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+>>> Puede ser cualquier persona que está al menos un poco agotada de trabajar y necesite un tiempo con sus seres queridos. Tiene muy en cuenta los detalles, el precio, las condiciones y la interactividad (como hacer tu propio cuadrante) y estos factores pueden hacerle cambiar de opinión rápidamente
 
 User Journey Map 2
 
