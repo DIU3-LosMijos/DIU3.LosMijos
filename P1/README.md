@@ -1,3 +1,11 @@
+## Datos identificativos del equipo
+
+- Nombre del grupo: DIU3.LosMijos
+- Nombre de los autores:
+    * :bust_in_silhouette:   Luis Miguel Guirado Bautista     :octocat:     
+    * :bust_in_silhouette:   Miguel Ángel Serrano Villena     :octocat:
+- Enlace a GitHub: https://github.com/DIU3-LosMijos/DIU3.LosMijos
+
 ## DIU - Practica1, entregables
 
 - Desk research: Análisis Competencia.
