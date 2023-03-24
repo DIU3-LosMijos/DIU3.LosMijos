@@ -40,7 +40,7 @@ Persona 1
 
 ![Método UX](img/Persona_1.png)
 
->>> He seleccionado a esta persona porque se creo que corresponde con el perfil de alguien que podríamos esperar hoy en día en actividades turísticas de este estilo: una persona de mediana edad, posiblemente con familia y puede que ejerciendo en la artesanía desde joven o en otro campo artístico; ya sea por escapada, por inspirarse en otras obras artesanales o por pasar tiempo en familia.
+>>> He seleccionado a esta persona porque creo que corresponde con el perfil de alguien que podríamos esperar hoy en día en actividades turísticas de este estilo: una persona de mediana edad, posiblemente con familia y puede que ejerciendo en la artesanía desde joven o en otro campo artístico; ya sea por escapada, por inspirarse en otras obras artesanales o por pasar tiempo en familia.
 
 Persona 2
 
