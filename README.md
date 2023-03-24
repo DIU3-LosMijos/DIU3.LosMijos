@@ -47,15 +47,16 @@ cómodamente en cualquier lugar, presentando eventos relacionados.
 
 >>> He seleccionado a esta persona porque considero que encaja con uno de los posibles perfiles clásicos de las visitas a los talleres de artesanía nazarí. Esto es así porque tiene una clara inclinación por la historia de España, puesto que es profesor en un instituto, además de contar con un especial interés por el Al-Ándalus. Es por ello, que cualquier aspecto que tenga que ver con esto, como es el caso de la artesanía nazarí y la visita de una ciudad con una tradición morisca como es el caso de Granada, es de sumo interés para él.
 
-1.c User Journey Map 1
+1.c User Journey Map
 ----
+
+User Journey Map 1
 
 ![Método UX](img/JourneyMap_1.png)
 
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
 
-1.c User Journey Map 2
-----
+User Journey Map 2
 
 ![Método UX](img/JourneyMap_2.png)
 
