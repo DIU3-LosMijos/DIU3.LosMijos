@@ -65,11 +65,10 @@ User Journey Map 2
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+
+>>> - Enlace al documento: 
+>>> - Valoración final: 65 puntos. 
+>>> - Comentario sobre la valoración: El sitio web Artesanía Nazarí contiene numerosos defectos y problemas tanto visuales como funcionales, lo que convierte la experiencia de usuario en algo frustrante y muy alejado de una tendencia positiva a la hora de ultimar el proceso de compra de las entradas para las visitas a los talleres de artesanía nazarí. Cabe destacar lo delicado del proceso de compra, que contiene algunos fallos graves que pueden terminar por comprometer tanto a la empresa como a los clientes.
 
 
 ## Paso 2. UX Design  
