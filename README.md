@@ -23,13 +23,15 @@ Miembros
 
 ## Paso 1. UX Desk Research & Analisis 
 
+1.a Competitive Analysis
+-----
+
+![Método UX](img/Competitor_analysis.png)
+
 >>> Tenemos asignada una página web de artesanía nazarí, concretamente el apartado relativo a visitas a talleres artesanales. Artesanía Nazarí, el nombre oficial, recoge el legado de los grandes maestros artesanos que enriquecieron nuestro patrimonio a lo largo de los siglos, reproduciendo de forma artesanal piezas de nuestro patrimonio mediante el uso de técnicas depuradas para transformar materiales naturales, como el yeso, en piezas únicas trabajadas a mano.
 
 >>> Se ha comparado con La Alboreá (tablao flamenco) y Civitatis, decidiéndonos, en vista a lo recogido en el análisis, por Civitatis, porque el precio es muy bueno, hay mucha publicidad y está presente a nivel mundial, lo que resulta muy interesante para buscar experiencias allá donde se quiera viajar. Además, tiene una página web limpia y clara, con una cantidad de información relativa al evento muy elevada, contando con un sistema de valoraciones y comentairos, lo cual supone un punto especialmente relevante. Es más, cuenta con app móvil, permitiendo usar sus servicios 
 cómodamente en cualquier lugar, presentando eventos relacionados.
-
-![Método UX](img/Competitor_analysis.png) 1.a Competitive Analysis
------
 
 ![Método UX](img/Persona_1.png) 1.b Persona 1
 -----
