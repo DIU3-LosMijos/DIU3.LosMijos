@@ -33,15 +33,16 @@ Miembros
 >>> Se ha comparado con La Alboreá (tablao flamenco) y Civitatis, decidiéndonos, en vista a lo recogido en el análisis, por Civitatis, porque el precio es muy bueno, hay mucha publicidad y está presente a nivel mundial, lo que resulta muy interesante para buscar experiencias allá donde se quiera viajar. Además, tiene una página web limpia y clara, con una cantidad de información relativa al evento muy elevada, contando con un sistema de valoraciones y comentairos, lo cual supone un punto especialmente relevante. Es más, cuenta con app móvil, permitiendo usar sus servicios 
 cómodamente en cualquier lugar, presentando eventos relacionados.
 
-1.b Persona 1
+1.b Persona
 -----
+
+Persona 1
 
 ![Método UX](img/Persona_1.png)
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
 
-1.b Persona 2
------
+Persona 2
 
 ![Método UX](img/Persona_2.png)
 
