@@ -28,13 +28,18 @@ Miembros
 
 >>> Tenemos asignada una página web de artesanía nazarí, concretamente el apartado relativo a visitas a talleres artesanales. Artesanía Nazarí, el nombre oficial, recoge el legado de los grandes maestros artesanos que enriquecieron nuestro patrimonio a lo largo de los siglos, reproduciendo de forma artesanal piezas de nuestro patrimonio mediante el uso de técnicas depuradas para transformar materiales naturales, como el yeso, en piezas únicas trabajadas a mano.
 
-Se ha comparado con La Alboreá (tablao flamenco) y Civitatis, decidiéndonos, en vista a lo recogido en el análisis, por Civitatis, porque el precio es muy bueno, hay mucha publicidad y está presente a nivel mundial, lo que resulta muy interesante para buscar experiencias allá donde se quiera viajar. Además, tiene una página web limpia y clara, con una cantidad de información relativa al evento muy elevada, contando con un sistema de valoraciones y comentairos, lo cual supone un punto especialmente relevante. Es más, cuenta con app móvil, permitiendo usar sus servicios 
+>>> Se ha comparado con La Alboreá (tablao flamenco) y Civitatis, decidiéndonos, en vista a lo recogido en el análisis, por Civitatis, porque el precio es muy bueno, hay mucha publicidad y está presente a nivel mundial, lo que resulta muy interesante para buscar experiencias allá donde se quiera viajar. Además, tiene una página web limpia y clara, con una cantidad de información relativa al evento muy elevada, contando con un sistema de valoraciones y comentairos, lo cual supone un punto especialmente relevante. Es más, cuenta con app móvil, permitiendo usar sus servicios 
 cómodamente en cualquier lugar, presentando eventos relacionados.
 
-![Método UX](img/Persona.png) 1.b Persona
+![Método UX](img/Persona_1.png) 1.b Persona 1
 -----
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+
+![Método UX](img/Persona_2.png) 1.b Persona 2
+-----
+
+>>> He seleccionado a esta persona porque considero que encaja con uno de los posibles perfiles clásicos de las visitas a los talleres de artesanía nazarí. Esto es así porque tiene una clara inclinación por la historia de España, puesto que es profesor en un instituto, además de contar con un especial interés por el Al-Ándalus. Es por ello, que cualquier aspecto que tenga que ver con esto, como es el caso de la artesanía nazarí y la visita de una ciudad con una tradición morisca como es el caso de Granada, es de sumo interés para él.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
