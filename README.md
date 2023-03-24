@@ -1,38 +1,35 @@
 # DIU23
-Prácticas Diseño Interfaces de Usuario 2022-23 (Tema: .... ) 
+Prácticas Diseño Interfaces de Usuario 2022-23 (Tema: turismo)
 
-Grupo: DIU1_01AABB.  Curso: 2022/23 
-Updated: 11/1/2023
+Grupo: DIU3.LosMijos  Curso: 2022/23 
+Updated: 24/03/2023
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+>>> Decida el nombre corto de su propuesta en la práctica 2
 
 Descripción: 
-
->>> Describa la idea de su producto en la práctica 2 
+>>> Describa la idea de su producto en la práctica 2
 
 Logotipo: 
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:   Luis Miguel Guirado Bautista     :octocat:     
+ * :bust_in_silhouette:   Miguel Ángel Serrano Villena     :octocat:
 
 ----- 
-
-
-
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
-
 
 # Proceso de Diseño 
 
 ## Paso 1. UX Desk Research & Analisis 
 
-![Método UX](img/Competitive.png) 1.a Competitive Analysis
+![Método UX](img/Competitor_analysis.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+>>> Tenemos asignada una página web de artesanía nazarí, concretamente el apartado relativo a visitas a talleres artesanales. Artesanía Nazarí, el nombre oficial, recoge el legado de los grandes maestros artesanos que enriquecieron nuestro patrimonio a lo largo de los siglos, reproduciendo de forma artesanal piezas de nuestro patrimonio mediante el uso de técnicas depuradas para transformar materiales naturales, como el yeso, en piezas únicas trabajadas a mano.
+
+Se ha comparado con La Alboreá (tablao flamenco) y Civitatis, decidiéndonos, en vista a lo recogido en el análisis, por Civitatis, porque el precio es muy bueno, hay mucha publicidad y está presente a nivel mundial, lo que resulta muy interesante para buscar experiencias allá donde se quiera viajar. Además, tiene una página web limpia y clara, con una cantidad de información relativa al evento muy elevada, contando con un sistema de valoraciones y comentairos, lo cual supone un punto especialmente relevante. Es más, cuenta con app móvil, permitiendo usar sus servicios 
+cómodamente en cualquier lugar, presentando eventos relacionados.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
