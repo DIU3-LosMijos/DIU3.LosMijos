@@ -48,6 +48,8 @@ Hemos elegido esta herramienta por la facilidad de uso junto con la agilidad vis
 
 ![Matriz de tareas/usuarios](matriz_tareas_usuarios.png)
 
+>> Nota: el motivo que nos ha llevado a elegir esta herramienta es la posibilidad de comprimir una información tan amplia e importante como esta, pudiendo observar fácil y rápido la funcionalidad general del sistema y el comportamiento de los diferentes usuarios/as con esta.
+
 ### ARQUITECTURA DE INFORMACIÓN
 
 * Sitemap 
