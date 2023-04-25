@@ -5,13 +5,13 @@ Grupo: DIU3.LosMijos  Curso: 2022/23
 Actualizado: 25/04/2023
 
 Proyecto: 
->>> Aplicación web de compra de experiencias personalizables de artesanía nazarí en la ciudad de Granada.
+>>> Granada Handcraft: aplicación web de compra de experiencias personalizables de artesanía nazarí en la ciudad de Granada.
 
 Descripción: 
 >>> Nuestra aplicación web está orientada a la personalización de una especie de paquetes turísticos enfocados a la artesanía nazarí en Granada. La idea es ofrecer un conjunto de opciones elegibles por el usuario final, dotándolo de flexibilidad, de manera que tenga mayor interés en la realización de este tipo de actividades.
 
 Logotipo:
-![Método UX](logo.png)
+![Logotipo Granada Handcraft](logo.png)
 
 Miembros
  * :bust_in_silhouette:   Luis Miguel Guirado Bautista     :octocat:     
