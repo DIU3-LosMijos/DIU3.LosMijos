@@ -18,7 +18,7 @@ Miembros
  * :bust_in_silhouette:   Miguel Ángel Serrano Villena     :octocat:
 
 
-### Ideación
+### IDEACIÓN
 
 >>> Tras haber analizado los defectos de las visitas a los talleres de artesanía nazarí de Granada, así como tras haber elaborado una serie de críticas constructivas en torno a esto, hemos ideado una propuesta para impulsar este tipo de experiencias en la ciudad de Granada. Para ello, hemos diseñado una aplicación web enfocada en esto mismo, pero aportando aspectos novedosos e interesantes, de cara a mejorar la experiencia de los/as usuarios/as finales: Granada Handcraft.
 
