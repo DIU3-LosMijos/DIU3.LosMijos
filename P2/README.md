@@ -44,6 +44,7 @@ Hemos elegido esta herramienta por la facilidad de uso junto con la agilidad vis
 >>     * Grupos especiales: conjunto de personas adultas junto con menores de edad que quieren acudir juntas a la experiencia.
 >>     * Individuos: personas que quieren acudir en solitario a la experiencia.
 >> * Las empresas locales colaboradoras, que serán las que podrán añadir sus servicios al sistema. Estas únicamente podrán añadir sus servicios a las distintas experiencias que les interesen y modificar diversas opciones de sus perfiles de usuario.
+>> A continuación se presenta una matriz con las tareas que se pueden realizar en nuestra web (filas) y los tipos y subtipos de usuarios de nuestro sistema (columnas). En esta matriz se representa tanto la frecuencia de uso de cada tarea en función del tipo de usuario, como las tareas y perfiles más críticos e importantes (esto ayudará a indentificar claramente aquellas tareas que deben de ser diseñadas con más detalle):
 
 ![Matriz de tareas/usuarios](matriz_tareas_usuarios.png)
 
