@@ -52,11 +52,33 @@ Hemos elegido esta herramienta por la facilidad de uso junto con la agilidad vis
 
 ### ARQUITECTURA DE INFORMACIÓN
 
-* Sitemap 
-* Labelling 
+#### *Sitemap*
+
+Esquema de la estructura de nuestro sitio web
+
+![Sitemap](Labelling.drawio.png)
+
+#### Labelling
+
+Descripción breve de cada una de las páginas indicadas en el *Sitemap*
+
+| Nombre      | Descripción |
+|-------------|-------------|
+| Landing page | Primera página que verán los usuarios nuevos y empresas. Tendrá una introducción llamativa (contenido destacado de la empresa) y una sección de entrada para cada uno. Incluirá información de contacto y ubicación |
+| Área clientes | Página principal dirigida a los clientes ya registrados, tiene formato de tienda online |
+| Área empresas | Dirigida a los intereses de las empresas (colaboraciones, patrocinios, etc.) |
+| FAQ | Sección de preguntas frecuentes |
+| Inicio de sesión | Inicia sesión como usuario de la aplicación ya registrado |
+| Registro | Aquí los usuarios nuevos pueden crear una cuenta nueva |
+| Config. experiencia | En caso de querer comprar una experiencia, esta se podra personalizar en funcion a las preferencias del usuario (como si de un formulario se tratase) |
+| Carrito | Lista de productos que un usuario ha añadido a su carrito, ver los detalles de cada uno y modificarlos (eliminar del carrito, modificar cantidad/detalles, añadir a favoritos, comprar directamente uno de los productos, etc.) |
+| Fin de compra | Cuando se tramita correctamente la compra, se informa al usuario acerca de los detalles necesarios (id. compra, día estimado de llegada, etc.), se añade el pedido al historial y se vacia el carrito |
+| Historial | Lista con los pedidos realizados anteriormente por el usuario, podrá ver los detalles de cada uno y ver lo que compró en su momento, además de poder añadir a favoritos o al carrito los elementos que necesite, o incluso poder comprarlo directamente |
+| Favoritos | Lista con los productos favoritos del usuario, para cada uno de ellos puede quitarlo de favoritos, añadirlo al carrito o comprarlo directamente |
+| Perfil | El usuario puede ver y modificar su información de la aplicación como la información personal, los métodos de pago y sus preferencias, además de realizar ciertas funciones como cerrar la sesión o borrar su cuenta |
 
 
-### Prototipo Lo-FI Wireframe 
+### Prototipo Lo-FI Wireframe
 
 
 ### Conclusiones  
