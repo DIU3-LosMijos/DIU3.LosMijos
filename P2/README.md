@@ -52,12 +52,48 @@ Hemos elegido esta herramienta por la facilidad de uso junto con la agilidad vis
 
 ### ARQUITECTURA DE INFORMACIÓN
 
-* Sitemap 
-* Labelling 
+#### *Sitemap*
+
+Esquema de la estructura de nuestro sitio web
+
+![Sitemap](Labelling.drawio.png)
+
+#### Labelling
+
+Descripción breve de cada una de las páginas indicadas en el *Sitemap*
+
+| Nombre      | Descripción |
+|-------------|-------------|
+| Landing page | Primera página que verán los usuarios nuevos y empresas. Tendrá una introducción llamativa (contenido destacado de la empresa) y una sección de entrada para cada uno. Incluirá información de contacto y ubicación |
+| Área clientes | Página principal dirigida a los clientes ya registrados, tiene formato de tienda online |
+| Área empresas | Dirigida a los intereses de las empresas (colaboraciones, patrocinios, etc.) |
+| FAQ | Sección de preguntas frecuentes |
+| Inicio de sesión | Inicia sesión como usuario de la aplicación ya registrado |
+| Registro | Aquí los usuarios nuevos pueden crear una cuenta nueva |
+| Config. experiencia | En caso de querer comprar una experiencia, esta se podra personalizar en funcion a las preferencias del usuario (como si de un formulario se tratase) |
+| Carrito | Lista de productos que un usuario ha añadido a su carrito, ver los detalles de cada uno y modificarlos (eliminar del carrito, modificar cantidad/detalles, añadir a favoritos, comprar directamente uno de los productos, etc.) |
+| Fin de compra | Cuando se tramita correctamente la compra, se informa al usuario acerca de los detalles necesarios (id. compra, día estimado de llegada, etc.), se añade el pedido al historial y se vacia el carrito |
+| Historial | Lista con los pedidos realizados anteriormente por el usuario, podrá ver los detalles de cada uno y ver lo que compró en su momento, además de poder añadir a favoritos o al carrito los elementos que necesite, o incluso poder comprarlo directamente |
+| Favoritos | Lista con los productos favoritos del usuario, para cada uno de ellos puede quitarlo de favoritos, añadirlo al carrito o comprarlo directamente |
+| Perfil | El usuario puede ver y modificar su información de la aplicación como la información personal, los métodos de pago y sus preferencias, además de realizar ciertas funciones como cerrar la sesión o borrar su cuenta |
 
 
-### Prototipo Lo-FI Wireframe 
+### Prototipo Lo-FI Wireframe
 
+>> Tras todo lo anterior, en esta sección se presentan los prototipos diseñados para la interfaz de nuestra aplicación web. La misión de estos prototipos es plasmar una visión general del funcionamiento de nuestro sistema.
+
+>> El diseño ha sido llevado a cabo mediante el empleo de Figma en su versión web, la cual es un editor de gráficos vectorial y una herramienta de generación de prototipos que permite el trabajo colaborativo; ha sido una opción estupenda para cubrir perfectamente esta etapa.
+
+>> A continuación se muestran los diferentes prototipos:
+
+#### Landing page
+
+![Landing page](landing_page.png)
 
 ### Conclusiones  
-(incluye valoración de esta etapa)
+
+>> A lo largo de esta etapa se ha ido desarrollando una paulatina orientación al diseño, velando por identificar aquellas críticas constructivas de la etapa anterior, de manera que fuera posible diseñar una aplicación web que, además de mejorar estos aspectos señalados, aportase cierto grado de valor añadido. Es por esto que se ha realizado un análisis de tareas, fundamental también de cara al siguiente paso del proceso (arquitectura de información). Finalmente, se ha procedido a realizar un prototipo de diseño preliminar que refleje un poco la estructura y funcionamiento de nuestro proyecto.
+
+>> Es reseñable comentar que, para lograr cuadrar los diseños, se han tenido que llevar a cabo algunas reconceptualizaciones, por lo que esta etapa no sigue una progresión lineal, sino cíclica. Esto es así porque, conforme se avanza en el proceso, se hace necesario revisar y/o modificar lo realizado hasta el momento.
+
+>> Tras todo lo anteriormente comentado, hemos podido comprobar la relevancia y complejidad de la etapa de diseño, pues surgen numerosas preguntas e inquietudes a las que hay que dar respuesta para que las etapas posteriores puedan tener la suficiente consistencia y valor.
