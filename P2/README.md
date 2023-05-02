@@ -84,11 +84,67 @@ Descripción breve de cada una de las páginas indicadas en el *Sitemap*
 
 >> El diseño ha sido llevado a cabo mediante el empleo de Figma en su versión web, la cual es un editor de gráficos vectorial y una herramienta de generación de prototipos que permite el trabajo colaborativo; ha sido una opción estupenda para cubrir perfectamente esta etapa.
 
->> A continuación se muestran los diferentes prototipos:
+>> A continuación se muestran los diferentes prototipos, diferenciando las ventanas que serán vistas en función de las dos áreas diferenciadas en la landing page (clientes y empresas). Los clientes son aquel conjunto que comprará las experiencias y empresas son aquel conjunto de empresas que colaborarán con nosotros para incorporar servicios a las experiencias:
 
 #### Landing page
 
 ![Landing page](landing_page.png)
+
+#### Inicio de sesión (clientes y empresas)
+
+![Inicio de sesión (clientes y empresas)](inicio_sesion_clientesyempresas.png)
+
+#### Registro (clientes y empresas)
+
+![Registro (clientes y empresas)](registro_clientesyempresas.png)
+
+#### Home page (clientes y empresas)
+
+![Home page (clientes y empresas)](home_clientesyempresas.png)
+
+#### Favoritos (clientes y empresas)
+
+![Favoritos (clientes y empresas)](favoritos_clientesyempresas.png)
+
+#### Descripción experiencia (clientes)
+
+![Descripción experiencia (clientes)](descripción_experiencia_clientes.png)
+
+#### Personalizar experiencia (clientes)
+
+![Personalizar experiencia (clientes)](personalizar_experiencia_clientes.png)
+
+#### Panel de comentarios (clientes)
+
+![Panel de comentarios (clientes)](panel_comentarios_clientes.png)
+
+#### Carrito (clientes)
+
+![Carrito (clientes)](carrito_clientes.png)
+
+#### Historial (clientes)
+
+![Historial (clientes)](historial_clientes.png)
+
+#### Perfil (clientes)
+
+![Perfil (clientes)](perfil_clientes.png)
+
+#### Finalización de la compra (clientes)
+
+![Finalización de la compra (clientes)](finalizar_compra_clientes.png)
+
+#### Edición de servicios en una experiencia (empresas)
+
+![Edición de servicios en una experiencia (empresas)](edicion_servicios_experiencia_empresa.png)
+
+#### Descripción experiencia (empresas)
+
+![Descripción experiencia (empresas)](descripción_experiencia_empresas.png)
+
+#### Perfil (empresas)
+
+![Perfil (empresas)](perfil_empresas.png)
 
 ### Conclusiones  
 
