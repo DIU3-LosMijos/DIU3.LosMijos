@@ -88,7 +88,7 @@ Descripción breve de cada una de las páginas indicadas en el *Sitemap*
 
 #### Landing page
 
-![Landing page](landing_page.png)
+![Landing page](Prototipos/landing_page.png)
 
 #### Inicio de sesión (clientes y empresas)
 
