@@ -92,59 +92,59 @@ Descripción breve de cada una de las páginas indicadas en el *Sitemap*
 
 #### Inicio de sesión (clientes y empresas)
 
-![Inicio de sesión (clientes y empresas)](inicio_sesion_clientesyempresas.png)
+![Inicio de sesión (clientes y empresas)](Prototipos/inicio_sesion_clientesyempresas.png)
 
 #### Registro (clientes y empresas)
 
-![Registro (clientes y empresas)](registro_clientesyempresas.png)
+![Registro (clientes y empresas)](Prototipos/registro_clientesyempresas.png)
 
 #### Home page (clientes y empresas)
 
-![Home page (clientes y empresas)](home_clientesyempresas.png)
+![Home page (clientes y empresas)](Prototipos/home_clientesyempresas.png)
 
 #### Favoritos (clientes y empresas)
 
-![Favoritos (clientes y empresas)](favoritos_clientesyempresas.png)
+![Favoritos (clientes y empresas)](Prototipos/favoritos_clientesyempresas.png)
 
 #### Descripción experiencia (clientes)
 
-![Descripción experiencia (clientes)](descripción_experiencia_clientes.png)
+![Descripción experiencia (clientes)](Prototipos/descripción_experiencia_clientes.png)
 
 #### Personalizar experiencia (clientes)
 
-![Personalizar experiencia (clientes)](personalizar_experiencia_clientes.png)
+![Personalizar experiencia (clientes)](Prototipos/personalizar_experiencia_clientes.png)
 
 #### Panel de comentarios (clientes)
 
-![Panel de comentarios (clientes)](panel_comentarios_clientes.png)
+![Panel de comentarios (clientes)](Prototipos/panel_comentarios_clientes.png)
 
 #### Carrito (clientes)
 
-![Carrito (clientes)](carrito_clientes.png)
+![Carrito (clientes)](Prototipos/carrito_clientes.png)
 
 #### Historial (clientes)
 
-![Historial (clientes)](historial_clientes.png)
+![Historial (clientes)](Prototipos/historial_clientes.png)
 
 #### Perfil (clientes)
 
-![Perfil (clientes)](perfil_clientes.png)
+![Perfil (clientes)](Prototipos/perfil_clientes.png)
 
 #### Finalización de la compra (clientes)
 
-![Finalización de la compra (clientes)](finalizar_compra_clientes.png)
+![Finalización de la compra (clientes)](Prototipos/finalizar_compra_clientes.png)
 
 #### Edición de servicios en una experiencia (empresas)
 
-![Edición de servicios en una experiencia (empresas)](edicion_servicios_experiencia_empresa.png)
+![Edición de servicios en una experiencia (empresas)](Prototipos/edicion_servicios_experiencia_empresa.png)
 
 #### Descripción experiencia (empresas)
 
-![Descripción experiencia (empresas)](descripción_experiencia_empresas.png)
+![Descripción experiencia (empresas)](Prototipos/descripción_experiencia_empresas.png)
 
 #### Perfil (empresas)
 
-![Perfil (empresas)](perfil_empresas.png)
+![Perfil (empresas)](Prototipos/perfil_empresas.png)
 
 ### Conclusiones  
 
