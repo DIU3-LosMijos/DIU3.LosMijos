@@ -148,7 +148,7 @@ Descripción breve de cada una de las páginas indicadas en el *Sitemap*
 
 ![Perfil (empresas)](Prototipos/perfil_empresas.png)
 
-### Conclusiones  
+### CONCLUSIONES  
 
 >> A lo largo de esta etapa se ha ido desarrollando una paulatina orientación al diseño, velando por identificar aquellas críticas constructivas de la etapa anterior, de manera que fuera posible diseñar una aplicación web que, además de mejorar estos aspectos señalados, aportase cierto grado de valor añadido. Es por esto que se ha realizado un análisis de tareas, fundamental también de cara al siguiente paso del proceso (arquitectura de información). Finalmente, se ha procedido a realizar un prototipo de diseño preliminar que refleje un poco la estructura y funcionamiento de nuestro proyecto.
 
