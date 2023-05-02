@@ -108,7 +108,7 @@ Descripción breve de cada una de las páginas indicadas en el *Sitemap*
 
 #### Descripción experiencia (clientes)
 
-![Descripción experiencia (clientes)](Prototipos/descripción_experiencia_clientes.png)
+![Descripción experiencia (clientes)](Prototipos/descripcion_experiencia_clientes.png)
 
 #### Personalizar experiencia (clientes)
 
