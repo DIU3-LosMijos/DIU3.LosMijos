@@ -80,6 +80,11 @@ Descripción breve de cada una de las páginas indicadas en el *Sitemap*
 
 ### Prototipo Lo-FI Wireframe
 
+>> Tras todo lo anterior, en esta sección se presentan los prototipos diseñados para la interfaz de nuestra aplicación web. La misión de estos prototipos es plasmar una visión general del funcionamiento de nuestro sistema.
+
+>> El diseño ha sido llevado a cabo mediante el empleo de Figma en su versión web, la cual es un editor de gráficos vectorial y una herramienta de generación de prototipos que permite el trabajo colaborativo; ha sido una opción estupenda para cubrir perfectamente esta etapa.
+
+>> A continuación se muestran los diferentes prototipos:
 
 ### Conclusiones  
 
