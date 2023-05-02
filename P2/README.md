@@ -140,7 +140,7 @@ Descripción breve de cada una de las páginas indicadas en el *Sitemap*
 
 #### Descripción experiencia (empresas)
 
-![Descripción experiencia (empresas)](Prototipos/descripción_experiencia_empresas.png)
+![Descripción experiencia (empresas)](Prototipos/descripcion_experiencia_empresas.png)
 
 #### Perfil (empresas)
 
