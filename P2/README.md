@@ -64,18 +64,18 @@ Descripción breve de cada una de las páginas indicadas en el *Sitemap*
 
 | Nombre      | Descripción |
 |-------------|-------------|
-| Landing page | Primera página que verán los usuarios nuevos y empresas. Tendrá una introducción llamativa (contenido destacado de la empresa) y una sección de entrada para cada uno. Incluirá información de contacto y ubicación |
-| Área clientes | Página principal dirigida a los clientes ya registrados, tiene formato de tienda online |
-| Área empresas | Dirigida a los intereses de las empresas (colaboraciones, patrocinios, etc.) |
-| FAQ | Sección de preguntas frecuentes |
-| Inicio de sesión | Inicia sesión como usuario de la aplicación ya registrado |
-| Registro | Aquí los usuarios nuevos pueden crear una cuenta nueva |
-| Config. experiencia | En caso de querer comprar una experiencia, esta se podra personalizar en funcion a las preferencias del usuario (como si de un formulario se tratase) |
-| Carrito | Lista de productos que un usuario ha añadido a su carrito, ver los detalles de cada uno y modificarlos (eliminar del carrito, modificar cantidad/detalles, añadir a favoritos, comprar directamente uno de los productos, etc.) |
-| Fin de compra | Cuando se tramita correctamente la compra, se informa al usuario acerca de los detalles necesarios (id. compra, día estimado de llegada, etc.), se añade el pedido al historial y se vacia el carrito |
-| Historial | Lista con los pedidos realizados anteriormente por el usuario, podrá ver los detalles de cada uno y ver lo que compró en su momento, además de poder añadir a favoritos o al carrito los elementos que necesite, o incluso poder comprarlo directamente |
-| Favoritos | Lista con los productos favoritos del usuario, para cada uno de ellos puede quitarlo de favoritos, añadirlo al carrito o comprarlo directamente |
-| Perfil | El usuario puede ver y modificar su información de la aplicación como la información personal, los métodos de pago y sus preferencias, además de realizar ciertas funciones como cerrar la sesión o borrar su cuenta |
+| **Landing page** | Primera página que verán los usuarios nuevos y empresas. Tendrá una introducción llamativa (contenido destacado de la empresa). Incluirá información de contacto y ubicación |
+| **Inicio de sesión** | Página dirigida a todos los usuarios y empresas que tengan una cuenta en la plataforma para que puedan iniciar una nueva sesión |
+| **Registro** | Dirigida a usuarios y/o empresas que deseen crear una nueva cuenta en la plataforma |
+| **Home** | Página principal para usuarios y empresas ya registrados, tendrá formato de tienda online, con una galería deslizante con las imágenes de lo que ofrece la plataforma y filtros para buscar según ciertos criterios |
+| **Carrito** | Lista de los productos pendientes a comprar por una cuenta. Se podran ver los detalles de los productos, comprar alguno de los productos o eliminarlos de la lista. Una vez se desee tramitar la compra, se vaciará el carrito. |
+| **Fin de compra** | Pantalla con instrucciones para hacer un seguimiento de los productos comprados. También se generará un identificador de pedido. |
+| **Favoritos** | Productos guardados por el usuario para su interés. Se podrán ver los detalles de los productos, comprarlos directamente, añadirlos al carrito o quitarlos de la misma lista. |
+| **Historial** | Lista de pedidos realizados anteriormente. Se podrán ver los detalles del pedido (lista de los productos incluidos) y se podrá volver a añadir al carrito los productos del pedido para su posterior compra. |
+| **Perfil** | Un menú con las distintas opciones a personalizar del perfil de una cuenta. Habrá dos versiones: una destinada a los usuarios (cheques de descuento) y otra destinada a las empresas (gestión de servicios) |
+| **Experiencia** | Una página más detallada acerca de una experiencia, con una galería de fotos, título y descripción de la misma. Habrá dos versiones: una destinada a los usuarios (añadir al carrito, añadir a favoritos o comprar directamente) y otra destinada a las empresas (editar detalles de la página). También habrá un panel desplegable para publicar comentarios acerca de la experiencia. |
+| **Edición** | Exclusiva para empresas. Aquí se podrán editar los detalles de una página concreta. |
+| **Personalización** | Exclusiva para usuarios. Aquí el usuario podrá personalizar una experiencia de acuerdo a sus necesidades (número de personas, entradas infantiles, consideraciones, servicios, etc.). Una vez terminado, el usuario podrá añadirlo al carrito o comprarlo directamente |
 
 
 ### Prototipo Lo-FI Wireframe
