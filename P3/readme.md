@@ -23,7 +23,9 @@ Miembros
  * :bust_in_silhouette:   Luis Miguel Guirado Bautista     :octocat:     
  * :bust_in_silhouette:   Miguel Ángel Serrano Villena     :octocat:
 
-GitHub: https://github.com/DIU3-LosMijos/DIU3.LosMijos
+GitHub: 
+
+https://github.com/DIU3-LosMijos/DIU3.LosMijos
 
 ## Moodboard (diseño visual + logotipo)   
 
