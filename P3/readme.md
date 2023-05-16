@@ -25,7 +25,7 @@ Miembros
 
 GitHub: 
 
-https://github.com/DIU3-LosMijos/DIU3.LosMijos
+ https://github.com/DIU3-LosMijos/DIU3.LosMijos
 
 ## Moodboard (diseño visual + logotipo)   
 
