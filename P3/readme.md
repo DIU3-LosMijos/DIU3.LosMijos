@@ -29,7 +29,7 @@ GitHub:
 
 ## Moodboard (diseño visual + logotipo)   
 
->> La primera fase de este proceso consite en desarrollar un tablero de inspiración que recoja diferentes aspectos de diseño de nuestra página web. No todo lo que aparezca en este tablero debe de aparecer en los bocetos HI-FI que se van a perfilar de la práctica anterior, aunque es importante lograr que haya consistencia entre el resultado final de dicho tablero y el de los mencionados bocetos.
+>> La primera fase de este proceso consiste en desarrollar un tablero de inspiración que recoja diferentes aspectos de diseño de nuestra página web. No todo lo que aparezca en este tablero debe de aparecer en los bocetos HI-FI que se van a perfilar de la práctica anterior, aunque es importante lograr que haya consistencia entre el resultado final de dicho tablero y el de los mencionados bocetos.
 
 ![moodboard](moodboard.png)
 
