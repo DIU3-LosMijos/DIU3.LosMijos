@@ -32,13 +32,13 @@ cómodamente en cualquier lugar, presentando eventos relacionados.
 
 Persona 1
 
-![Método UX](img/Persona_1.png)
+![Método UX](../img/Persona_1.png)
 
 >>> He seleccionado a esta persona porque creo que corresponde con el perfil de alguien que podríamos esperar hoy en día en actividades turísticas de este estilo: una persona de mediana edad, posiblemente con familia y puede que ejerciendo en la artesanía desde joven o en otro campo artístico; ya sea por escapada, por inspirarse en otras obras artesanales o por pasar tiempo en familia.
 
 Persona 2
 
-![Método UX](img/Persona_2.png)
+![Método UX](../img/Persona_2.png)
 
 >>> He seleccionado a esta persona porque considero que encaja con uno de los posibles perfiles clásicos de las visitas a los talleres de artesanía nazarí. Esto es así porque tiene una clara inclinación por la historia de España, puesto que es profesor en un instituto, además de contar con un especial interés por el Al-Ándalus. Es por ello, que cualquier aspecto que tenga que ver con esto, como es el caso de la artesanía nazarí y la visita de una ciudad con una tradición morisca como es el caso de Granada, es de sumo interés para él.
 
@@ -47,17 +47,17 @@ Persona 2
 
 User Journey Map 1
 
-![Método UX](img/JourneyMap_1.png)
+![Método UX](../img/JourneyMap_1.png)
 
 >>> Puede ser cualquier persona que está al menos un poco agotada de trabajar y necesite un tiempo con sus seres queridos. Tiene muy en cuenta los detalles, el precio, las condiciones y la interactividad (como hacer tu propio cuadrante) y estos factores pueden hacerle cambiar de opinión rápidamente
 
 User Journey Map 2
 
-![Método UX](img/JourneyMap_2.png)
+![Método UX](../img/JourneyMap_2.png)
 
 >>> He escogido esta experiencia de usuario porque he considerado que cualquier persona en su situación desearía tener la oportunidad de viajar a Granada realizando una experiencia como esta, pues no deja de ser un reflejo de la cultura nazaría tanto a nivel local como de Andalucía y España. A cualquier persona como él le atraería la idea, por lo que es realmente interesante y pertinente intentar comprender cómo un perfil tan valioso para este tipo de experiencias podría reaccionar durante todo el proceso de compra de las entradas a las visitas.
 
-![Método UX](img/usabilityReview.png) 1.d Usability Review
+![Método UX](../img/usabilityReview.png) 1.d Usability Review
 ----
 
 >>> - Enlace al documento: https://github.com/DIU3-LosMijos/DIU3.LosMijos/blob/master/P1/Usability-review.pdf
