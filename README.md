@@ -92,14 +92,14 @@ User Journey Map 2
 
 Hemos elegido esta herramienta por la facilidad de uso junto con la agilidad visual que brinda a la hora de ver rápidamente aspectos relacionados con el surgimiento de la idea de nuestra aplicación web.
 
-![Malla receptora de información](P3/malla_receptora_informacion.png)
+![Malla receptora de información](P2/malla_receptora_informacion.png)
 
 ### PROPUESTA DE VALOR
 
 >> En la descripción del presente archivo se ha aportado información referente a nuestro proyecto web, pero a continuación vamos a reflejar una serie de aspectos relevantes de cara a conformar una estructura más sólida sobre el sentido de nuestro proyecto.
 >> Antes de nada, cabe mencionar que hemos analizado las necesidades de nuestros/as usuarios/as, la misión de nuestro proyecto, los objetivos a corto y largo plazo que pretendemos alcanzar como organización, las acciones que pretendemos que lleven a cabo nuestros/as usuarios/as en nuestra web, así como la forma en la que mediremos el éxito de nuestro proyecto (indicadores de éxito).
 
-![ScopeCanvas](scope_canvas.png)
+![ScopeCanvas](P2/scope_canvas.png)
 
 ### TASK ANALYSIS
 
@@ -112,7 +112,7 @@ Hemos elegido esta herramienta por la facilidad de uso junto con la agilidad vis
 >> * Las empresas locales colaboradoras, que serán las que podrán añadir sus servicios al sistema. Estas únicamente podrán añadir sus servicios a las distintas experiencias que les interesen y modificar diversas opciones de sus perfiles de usuario.
 >> A continuación se presenta una matriz con las tareas que se pueden realizar en nuestra web (filas) y los tipos y subtipos de usuarios de nuestro sistema (columnas). En esta matriz se representa tanto la frecuencia de uso de cada tarea en función del tipo de usuario (A: alta, M: media, B: baja), como las tareas y perfiles más críticos e importantes (marcados con un fondo gris; esto ayudará a indentificar claramente aquellas tareas que deben de ser diseñadas con más detalle):
 
-![Matriz de tareas/usuarios](matriz_tareas_usuarios.png)
+![Matriz de tareas/usuarios](P2/matriz_tareas_usuarios.png)
 
 >> Nota: el motivo que nos ha llevado a elegir esta herramienta es la posibilidad de comprimir una información tan amplia e importante como esta, pudiendo observar fácil y rápido la funcionalidad general del sistema y el comportamiento de los diferentes usuarios/as con esta.
 
@@ -122,7 +122,7 @@ Hemos elegido esta herramienta por la facilidad de uso junto con la agilidad vis
 
 Esquema de la estructura de nuestro sitio web
 
-![Sitemap](Labelling.drawio.png)
+![Sitemap](P2/Labelling.drawio.png)
 
 #### Labelling
 
@@ -154,63 +154,63 @@ Descripción breve de cada una de las páginas indicadas en el *Sitemap*
 
 #### Landing page
 
-![Landing page](Prototipos/landing_page.png)
+![Landing page](P2/Prototipos/landing_page.png)
 
 #### Inicio de sesión (clientes y empresas)
 
-![Inicio de sesión (clientes y empresas)](Prototipos/inicio_sesion_clientesyempresas.png)
+![Inicio de sesión (clientes y empresas)](P2/Prototipos/inicio_sesion_clientesyempresas.png)
 
 #### Registro (clientes y empresas)
 
-![Registro (clientes y empresas)](Prototipos/registro_clientesyempresas.png)
+![Registro (clientes y empresas)](P2/Prototipos/registro_clientesyempresas.png)
 
 #### Home page (clientes y empresas)
 
-![Home page (clientes y empresas)](Prototipos/home_clientesyempresas.png)
+![Home page (clientes y empresas)](P2/Prototipos/home_clientesyempresas.png)
 
 #### Favoritos (clientes y empresas)
 
-![Favoritos (clientes y empresas)](Prototipos/favoritos_clientesyempresas.png)
+![Favoritos (clientes y empresas)](P2/Prototipos/favoritos_clientesyempresas.png)
 
 #### Descripción experiencia (clientes)
 
-![Descripción experiencia (clientes)](Prototipos/descripcion_experiencia_clientes.png)
+![Descripción experiencia (clientes)](P2/Prototipos/descripcion_experiencia_clientes.png)
 
 #### Personalizar experiencia (clientes)
 
-![Personalizar experiencia (clientes)](Prototipos/personalizar_experiencia_clientes.png)
+![Personalizar experiencia (clientes)](P2/Prototipos/personalizar_experiencia_clientes.png)
 
 #### Panel de comentarios (clientes)
 
-![Panel de comentarios (clientes)](Prototipos/panel_comentarios_clientes.png)
+![Panel de comentarios (clientes)](P2/Prototipos/panel_comentarios_clientes.png)
 
 #### Carrito (clientes)
 
-![Carrito (clientes)](Prototipos/carrito_clientes.png)
+![Carrito (clientes)](P2/Prototipos/carrito_clientes.png)
 
 #### Historial (clientes)
 
-![Historial (clientes)](Prototipos/historial_clientes.png)
+![Historial (clientes)](P2/Prototipos/historial_clientes.png)
 
 #### Perfil (clientes)
 
-![Perfil (clientes)](Prototipos/perfil_clientes.png)
+![Perfil (clientes)](P2/Prototipos/perfil_clientes.png)
 
 #### Finalización de la compra (clientes)
 
-![Finalización de la compra (clientes)](Prototipos/finalizar_compra_clientes.png)
+![Finalización de la compra (clientes)](P2/Prototipos/finalizar_compra_clientes.png)
 
 #### Edición de servicios en una experiencia (empresas)
 
-![Edición de servicios en una experiencia (empresas)](Prototipos/edicion_servicios_experiencia_empresa.png)
+![Edición de servicios en una experiencia (empresas)](P2/Prototipos/edicion_servicios_experiencia_empresa.png)
 
 #### Descripción experiencia (empresas)
 
-![Descripción experiencia (empresas)](Prototipos/descripcion_experiencia_empresas.png)
+![Descripción experiencia (empresas)](P2/Prototipos/descripcion_experiencia_empresas.png)
 
 #### Perfil (empresas)
 
-![Perfil (empresas)](Prototipos/perfil_empresas.png)
+![Perfil (empresas)](P2/Prototipos/perfil_empresas.png)
 
 ### CONCLUSIONES  
 
