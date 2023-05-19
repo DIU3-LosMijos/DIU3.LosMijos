@@ -37,7 +37,9 @@ GitHub:
 
 ![Landing page](Prototipos/landing_page.png)
 
-## Patrones y *Guidelines* usados 
+## Patrones y *Guidelines* usados
+
+### Patrones de interfaz de usuario
 
 - Pestañas de navegación
   Los usuarios pueden acceder a secciones importantes de la aplicación mediante un conjunto de botones que cumplen con la misma funcionalidad que puede tener un conjunto de pestañas.       Presente en todas las páginas salvo en *landing page*
@@ -80,6 +82,11 @@ GitHub:
   El usuario puede registrarse con una cuenta de Google o Facebook si asi lo desea
   
 - Registro de cuentas
+
+### *Guidelines*
+
+- Iconos de la cabecera del *home*
+Transmiten con claridad a la página a la que llevan con un icono minimalista
 
 
 ## Mockup: LAYOUT HI-FI
