@@ -228,11 +228,11 @@ Descripción breve de cada una de las páginas indicadas en el *Sitemap*
 
 >> La primera fase de este proceso consiste en desarrollar un tablero de inspiración que recoja diferentes aspectos de diseño de nuestra página web. No todo lo que aparezca en este tablero debe de aparecer en los bocetos HI-FI que se van a perfilar de la práctica anterior, aunque es importante lograr que haya consistencia entre el resultado final de dicho tablero y el de los mencionados bocetos.
 
-![moodboard](moodboard.png)
+![moodboard](P3/moodboard.png)
 
 ## Landing Page
 
-![Landing page](Prototipos/landing_page.png)
+![Landing page](P3/Prototipos/landing_page.png)
 
 ## Patrones y *Guidelines* usados
 
@@ -241,54 +241,54 @@ Descripción breve de cada una de las páginas indicadas en el *Sitemap*
 - Pestañas de navegación:
   los usuarios pueden acceder a secciones importantes de la aplicación mediante un conjunto de botones que cumplen con la misma funcionalidad que puede tener un conjunto de pestañas.       Presente en todas las páginas salvo en *landing page*.
   
-  ![Pestañas de navegación](Elementos_patrones/pestanias_navegacion.png)
+  ![Pestañas de navegación](P3/Elementos_patrones/pestanias_navegacion.png)
   
 - *Fat Footer*:
   las páginas web tienen un pie de página común con enlaces de interés. Presente en todas las páginas.
   
-  ![Pie de página](Elementos_patrones/pie_pagina.png)
+  ![Pie de página](P3/Elementos_patrones/pie_pagina.png)
    
 - Enlace al *home*:
   en la cabecera hay un logo que redirige al *home* si el usuario hace clic sobre él. Presente en todas las páginas.
   
-  ![Logo que redirige al home](Elementos_patrones/logo_home.png)
+  ![Logo que redirige al home](P3/Elementos_patrones/logo_home.png)
   
 - Miniaturas:
   el usuario tiene a su disposición un conjunto de imágenes que describen visualmente lo que tiene que ofrecer la aplicación. Presente en el *home*, la descripción de experiencia y en la *landing page*.
   
-  ![Miniaturas descriptivas](Elementos_patrones/miniaturas.png)
+  ![Miniaturas descriptivas](P3/Elementos_patrones/miniaturas.png)
   
 - Tarjetas:
   conjuntos de información, normalmente suelen ser conjuntos de una foto y texto. Presente en el historial, la página de favoritos, el carrito y en la *landing page*.
   
-  ![Tarjetas informativas](Elementos_patrones/tarjetas_info.png)
+  ![Tarjetas informativas](P3/Elementos_patrones/tarjetas_info.png)
   
 - Carrusel:
   parecido al elemento de la paginación pero sin indexar, puede ser automático y cuando llega al final, vuelve al principio. Usado en la landing page, en la descripción de la experiencia y en el *home*.
   
-  ![Carrusel](Elementos_patrones/carrusel.png)
+  ![Carrusel](P3/Elementos_patrones/carrusel.png)
   
 - Deslizadores:
   utilizados en los filtros de búsqueda y en la personalización de búsqueda para evitar que el usuario ponga números negativos y que solo pueda escoger entre un rango.
   
-  ![Deslizadores](Elementos_patrones/deslizadores.png)
+  ![Deslizadores](P3/Elementos_patrones/deslizadores.png)
   
 - Sección de favoritos: (ver el boceto de "Favoritos (clientes y empresas)").
 
 - Filtros de búsqueda:
   el usuario puede ordenar lo que se le muestra en el *home* según los criterios mostrados.
   
-  ![Filtros de búsqueda](Elementos_patrones/filtros_busqueda.png)
+  ![Filtros de búsqueda](P3/Elementos_patrones/filtros_busqueda.png)
   
 - Presentación de diapositivas:
   diapositivas que muestran elementos, se suelen manejar con un carrusel. Presente en el *home* y en la descripción de experiencia.
   
-  ![Presentación de diapositivas](Elementos_patrones/miniaturas.png)
+  ![Presentación de diapositivas](P3/Elementos_patrones/miniaturas.png)
   
 - FAQ:
   se puede acceder en el *fat footer*.
   
-  ![FAQ](Elementos_patrones/faq.png)
+  ![FAQ](P3/Elementos_patrones/faq.png)
   
 - Página de producto:
   la página de descripción y personalización de experiencia tienen el papel de páginas de producto.
@@ -298,7 +298,7 @@ Descripción breve de cada una de las páginas indicadas en el *Sitemap*
 - Registro perezoso:
   el usuario puede registrarse con una cuenta de Google o Facebook si asi lo desea.
   
-  ![Registro perezoso](Elementos_patrones/registro_perezoso.png)
+  ![Registro perezoso](P3/Elementos_patrones/registro_perezoso.png)
   
 - Registro de cuentas.
 
@@ -314,68 +314,68 @@ Transmiten con claridad a la página a la que llevan con un icono minimalista
 
 #### Inicio de sesión (clientes y empresas)
 
-![Inicio de sesión (clientes y empresas)](Prototipos/inicio_sesion_clientesyempresas.png)
+![Inicio de sesión (clientes y empresas)](P3/Prototipos/inicio_sesion_clientesyempresas.png)
 
 #### Registro (clientes y empresas)
 
-![Registro (clientes y empresas)](Prototipos/registro_clientesyempresas.png)
+![Registro (clientes y empresas)](P3/Prototipos/registro_clientesyempresas.png)
 
 #### Home page (clientes y empresas)
 
-![Home page (clientes y empresas)](Prototipos/home_clientesyempresas.png)
+![Home page (clientes y empresas)](P3/Prototipos/home_clientesyempresas.png)
 
 #### Favoritos (clientes y empresas)
 
-![Favoritos (clientes y empresas)](Prototipos/favoritos_clientesyempresas.png)
+![Favoritos (clientes y empresas)](P3/Prototipos/favoritos_clientesyempresas.png)
 
 #### Descripción experiencia (clientes)
 
-![Descripción experiencia (clientes)](Prototipos/descripcion_experiencia_clientes.png)
+![Descripción experiencia (clientes)](P3/Prototipos/descripcion_experiencia_clientes.png)
 
 #### Personalizar experiencia (clientes)
 
-![Personalizar experiencia (clientes)](Prototipos/personalizar_experiencia_clientes.png)
+![Personalizar experiencia (clientes)](P3/Prototipos/personalizar_experiencia_clientes.png)
 
 #### Panel de comentarios (clientes)
 
-![Panel de comentarios (clientes)](Prototipos/panel_comentarios_clientes.png)
+![Panel de comentarios (clientes)](P3/Prototipos/panel_comentarios_clientes.png)
 
 #### Carrito (clientes)
 
-![Carrito (clientes)](Prototipos/carrito_clientes.png)
+![Carrito (clientes)](P3/Prototipos/carrito_clientes.png)
 
 #### Historial (clientes)
 
-![Historial (clientes)](Prototipos/historial_clientes.png)
+![Historial (clientes)](P3/Prototipos/historial_clientes.png)
 
 #### Perfil (clientes)
 
-![Perfil (clientes)](Prototipos/perfil_clientes.png)
+![Perfil (clientes)](P3/Prototipos/perfil_clientes.png)
 
 #### Finalización de la compra (clientes)
 
-![Finalización de la compra (clientes)](Prototipos/finalizar_compra_clientes.png)
+![Finalización de la compra (clientes)](P3/Prototipos/finalizar_compra_clientes.png)
 
 #### Edición de servicios en una experiencia (empresas)
 
-![Edición de servicios en una experiencia (empresas)](Prototipos/edicion_servicios_experiencia_empresa.png)
+![Edición de servicios en una experiencia (empresas)](P3/Prototipos/edicion_servicios_experiencia_empresa.png)
 
 #### Descripción experiencia (empresas)
 
-![Descripción experiencia (empresas)](Prototipos/descripcion_experiencia_empresas.png)
+![Descripción experiencia (empresas)](P3/Prototipos/descripcion_experiencia_empresas.png)
 
 #### Perfil (empresas)
 
-![Perfil (empresas)](Prototipos/perfil_empresas.png)
+![Perfil (empresas)](P3/Prototipos/perfil_empresas.png)
 
 ## Documentación: Publicación del Case Study
  
-Planteamos el moodboard y parte del *layout* de forma no intencionada durante la practica 2, de forma que solamente teniamos que refinar el trabajo anterior
-para que se ajuste a los objetivos de la práctica
+Planteamos el *moodboard* y parte del *layout* de forma no intencionada durante la práctica 2, de forma que solamente teníamos que refinar el trabajo anterior
+para que se ajustase a los objetivos de esta práctica.
 
-De momento, el proceso de diseño está siendo bastante favorable, existen algunas cosas más que se podrían revisar de los patrones de la interfaz:
-- Inicio de la *landing page*: Al principio hay una imagen grande y centrada que no transmite información al usuario y con espacio desaprovechado
-- Uso de deslizadores en la entrada de enteros. Puede no ser una opción adecuada en ciertos casos, pero se resalta que son de tipo discretos
+De momento, el proceso de diseño está siendo bastante favorable; existen algunas cosas más que se podrían revisar de los patrones de la interfaz:
+- Inicio de la *landing page*: al principio hay una imagen grande y centrada que no transmite información al usuario y con espacio desaprovechado.
+- Uso de deslizadores en la entrada de enteros. Puede no ser una opción adecuada en ciertos casos, pero se resalta que son de tipo discreto.
 
 
 ## Paso 4. Evaluación 
