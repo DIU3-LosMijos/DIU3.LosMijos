@@ -92,7 +92,7 @@ User Journey Map 2
 
 Hemos elegido esta herramienta por la facilidad de uso junto con la agilidad visual que brinda a la hora de ver rápidamente aspectos relacionados con el surgimiento de la idea de nuestra aplicación web.
 
-![Malla receptora de información](malla_receptora_informacion.png)
+![Malla receptora de información](P3/malla_receptora_informacion.png)
 
 ### PROPUESTA DE VALOR
 
