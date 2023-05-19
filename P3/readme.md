@@ -35,6 +35,8 @@ GitHub:
 
 ## Landing Page
 
+![Landing page](Prototipos/landing_page.png)
+
 ## Patrones y *Guidelines* usados 
 
 - Pestañas de navegación
