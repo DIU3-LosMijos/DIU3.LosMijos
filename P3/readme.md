@@ -44,54 +44,54 @@ GitHub:
 - Pestañas de navegación:
   los usuarios pueden acceder a secciones importantes de la aplicación mediante un conjunto de botones que cumplen con la misma funcionalidad que puede tener un conjunto de pestañas.       Presente en todas las páginas salvo en *landing page*.
   
-![Pestañas de navegación](Elementos_patrones/pestanias_navegacion.png)
+  ![Pestañas de navegación](Elementos_patrones/pestanias_navegacion.png)
   
 - *Fat Footer*:
   las páginas web tienen un pie de página común con enlaces de interés. Presente en todas las páginas.
   
- ![Pie de página](Elementos_patrones/pie_pagina.png)
+  ![Pie de página](Elementos_patrones/pie_pagina.png)
    
 - Enlace al *home*:
   en la cabecera hay un logo que redirige al *home* si el usuario hace clic sobre él. Presente en todas las páginas.
   
-![Logo que redirige al home](Elementos_patrones/logo_home.png)
+  ![Logo que redirige al home](Elementos_patrones/logo_home.png)
   
 - Miniaturas:
   el usuario tiene a su disposición un conjunto de imágenes que describen visualmente lo que tiene que ofrecer la aplicación. Presente en el *home*, la descripción de experiencia y en la *landing page*.
   
-![Miniaturas descriptivas](Elementos_patrones/miniaturas.png)
+  ![Miniaturas descriptivas](Elementos_patrones/miniaturas.png)
   
 - Tarjetas:
   conjuntos de información, normalmente suelen ser conjuntos de una foto y texto. Presente en el historial, la página de favoritos, el carrito y en la *landing page*.
   
-![Tarjetas informativas](Elementos_patrones/tarjetas_info.png)
+  ![Tarjetas informativas](Elementos_patrones/tarjetas_info.png)
   
 - Carrusel:
   parecido al elemento de la paginación pero sin indexar, puede ser automático y cuando llega al final, vuelve al principio. Usado en la landing page, en la descripción de la experiencia y en el *home*.
   
-![Carrusel](Elementos_patrones/carrusel.png)
+  ![Carrusel](Elementos_patrones/carrusel.png)
   
 - Deslizadores:
   utilizados en los filtros de búsqueda y en la personalización de búsqueda para evitar que el usuario ponga números negativos y que solo pueda escoger entre un rango.
   
-![Deslizadores](Elementos_patrones/deslizadores.png)
+  ![Deslizadores](Elementos_patrones/deslizadores.png)
   
 - Sección de favoritos: (ver el boceto de "Favoritos (clientes y empresas)").
 
 - Filtros de búsqueda:
   el usuario puede ordenar lo que se le muestra en el *home* según los criterios mostrados.
   
-![Filtros de búsqueda](Elementos_patrones/filtros_busqueda.png)
+  ![Filtros de búsqueda](Elementos_patrones/filtros_busqueda.png)
   
 - Presentación de diapositivas:
   diapositivas que muestran elementos, se suelen manejar con un carrusel. Presente en el *home* y en la descripción de experiencia.
   
-![Presentación de diapositivas](Elementos_patrones/miniaturas.png)
+  ![Presentación de diapositivas](Elementos_patrones/miniaturas.png)
   
 - FAQ:
   se puede acceder en el *fat footer*.
   
-![FAQ](Elementos_patrones/faq.png)
+  ![FAQ](Elementos_patrones/faq.png)
   
 - Página de producto:
   la página de descripción y personalización de experiencia tienen el papel de páginas de producto.
@@ -101,7 +101,7 @@ GitHub:
 - Registro perezoso:
   el usuario puede registrarse con una cuenta de Google o Facebook si asi lo desea.
   
-![Registro perezoso](Elementos_patrones/registro_perezoso.png)
+  ![Registro perezoso](Elementos_patrones/registro_perezoso.png)
   
 - Registro de cuentas.
 
