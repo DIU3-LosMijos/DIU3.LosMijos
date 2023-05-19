@@ -37,8 +37,9 @@ GitHub:
 
 ## Patrones y *Guidelines* usados 
 
-- Pestañas de navegación
-  Los usuarios pueden acceder a secciones importantes de la aplicación mediante un conjunto de botones que cumplen con la misma funcionalidad que puede tener un conjunto de pestañas. Presente en todas las páginas salvo en *landing page*
+Pestañas de navegación
+
+>>> Los usuarios pueden acceder a secciones importantes de la aplicación mediante un conjunto de botones que cumplen con la misma funcionalidad que puede tener un conjunto de pestañas. Presente en todas las páginas salvo en *landing page*
   
 - *Fat Footer*
   Las páginas web tienen un pie de página común con enlaces de interés. Presente en todas las páginas
