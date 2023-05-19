@@ -55,6 +55,9 @@ GitHub:
 - Carrusel
   Parecido al elemento de la paginación pero sin indexar, puede ser automático y cuando llega al final, vuelve al principio. Usado en la landing page, en la descripción de la experiencia y en el *home*
   
+- Deslizadores
+  Utilizados en los filtros de búsqueda y en la personalización de búsqueda para evitar que el usuario ponga números negativos y que solo pueda escoger entre un rango.
+  
 - Sección de favoritos
 
 - Filtros de búsqueda
