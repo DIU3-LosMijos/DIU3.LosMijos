@@ -20,7 +20,7 @@
 1.a Competitive Analysis
 -----
 
-![Método UX](img/Competitor_analysis.png)
+![Método UX](../img/Competitor_analysis.png)
 
 >>> Tenemos asignada una página web de artesanía nazarí, concretamente el apartado relativo a visitas a talleres artesanales. Artesanía Nazarí, el nombre oficial, recoge el legado de los grandes maestros artesanos que enriquecieron nuestro patrimonio a lo largo de los siglos, reproduciendo de forma artesanal piezas de nuestro patrimonio mediante el uso de técnicas depuradas para transformar materiales naturales, como el yeso, en piezas únicas trabajadas a mano.
 
