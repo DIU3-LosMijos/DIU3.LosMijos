@@ -16,7 +16,7 @@ Descripción:
 
 Logotipo:
 
-![Logotipo Granada Handcraft](logo.png)
+![Logotipo Granada Handcraft](P3/logo.png)
 
 Miembros
 
