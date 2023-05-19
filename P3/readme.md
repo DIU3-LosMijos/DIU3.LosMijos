@@ -150,7 +150,10 @@ Transmiten con claridad a la página a la que llevan con un icono minimalista
 ![Perfil (empresas)](Prototipos/perfil_empresas.png)
 
 ## Documentación: Publicación del Case Study
-
-
-(incluye) Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
  
+Planteamos el moodboard y parte del *layout* de forma no intencionada durante la practica 2, de forma que solamente teniamos que refinar el trabajo anterior
+para que se ajuste a los objetivos de la práctica
+
+De momento, el proceso de diseño está siendo bastante favorable, existen algunas cosas más que se podrían revisar de los patrones de la interfaz:
+- Inicio de la *landing page*: Al principio hay una imagen grande y centrada que no transmite información al usuario y con espacio desaprovechado
+- Uso de deslizadores en la entrada de enteros. Puede no ser una opción adecuada en ciertos casos, pero se resalta que son de tipo discretos
