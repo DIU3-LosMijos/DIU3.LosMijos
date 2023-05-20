@@ -173,9 +173,6 @@ Transmiten con claridad a la página a la que llevan con un icono minimalista
 
 ## Documentación: Publicación del Case Study
  
-Planteamos el *moodboard* y parte del *layout* de forma no intencionada durante la práctica 2, de forma que solamente teníamos que refinar el trabajo anterior
-para que se ajustase a los objetivos de esta práctica.
+Para publicar nuestro caso de estudio, hemos utilizado [docsify](https://docsify.js.org/), una herramienta muy sencilla de aprender que ha generado un fichero HTML que coge la información del fichero README.md y la renderiza de manera bonita.
 
-De momento, el proceso de diseño está siendo bastante favorable; existen algunas cosas más que se podrían revisar de los patrones de la interfaz:
-- Inicio de la *landing page*: al principio hay una imagen grande y centrada que no transmite información al usuario y con espacio desaprovechado.
-- Uso de deslizadores en la entrada de enteros. Puede no ser una opción adecuada en ciertos casos, pero se resalta que son de tipo discreto.
+*Gracias, [Cherry Pink](https://github.com/Asmilex/DIU21)*
