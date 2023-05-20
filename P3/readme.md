@@ -39,76 +39,103 @@ GitHub:
 
 ## Patrones y *Guidelines* usados
 
-### Patrones de interfaz de usuario
+### Patrones de interfaz de usuario utilizados
 
-- Pestañas de navegación:
-  los usuarios pueden acceder a secciones importantes de la aplicación mediante un conjunto de botones que cumplen con la misma funcionalidad que puede tener un conjunto de pestañas.       Presente en todas las páginas salvo en *landing page*.
+- **Pestañas de navegación**
+  Los usuarios pueden acceder a secciones importantes de la aplicación mediante un conjunto de botones que cumplen con la misma funcionalidad que puede tener un conjunto de pestañas.       Presente en todas las páginas salvo en *landing page*.
   
   ![Pestañas de navegación](Elementos_patrones/pestanias_navegacion.png)
   
-- *Fat Footer*:
-  las páginas web tienen un pie de página común con enlaces de interés. Presente en todas las páginas.
+- ***Fat Footer***
+  Las páginas web tienen un pie de página común con enlaces de interés. Presente en todas las páginas.
   
   ![Pie de página](Elementos_patrones/pie_pagina.png)
    
-- Enlace al *home*:
-  en la cabecera hay un logo que redirige al *home* si el usuario hace clic sobre él. Presente en todas las páginas.
+- **Enlace al *home***
+  En la cabecera hay un logo que redirige al *home* si el usuario hace clic sobre él. Presente en todas las páginas.
   
   ![Logo que redirige al home](Elementos_patrones/logo_home.png)
   
-- Miniaturas:
-  el usuario tiene a su disposición un conjunto de imágenes que describen visualmente lo que tiene que ofrecer la aplicación. Presente en el *home*, la descripción de experiencia y en la *landing page*.
+- **Miniaturas**
+  El usuario tiene a su disposición un conjunto de imágenes que describen visualmente lo que tiene que ofrecer la aplicación. Presente en el *home*, la descripción de experiencia y en la *landing page*.
   
   ![Miniaturas descriptivas](Elementos_patrones/miniaturas.png)
   
-- Tarjetas:
-  conjuntos de información, normalmente suelen ser conjuntos de una foto y texto. Presente en el historial, la página de favoritos, el carrito y en la *landing page*.
+- **Tarjetas**
+  Conjuntos de información, normalmente suelen ser conjuntos de una foto y texto. Presente en el historial, la página de favoritos, el carrito y en la *landing page*.
   
   ![Tarjetas informativas](Elementos_patrones/tarjetas_info.png)
   
-- Carrusel:
+- **Carrusel**
   parecido al elemento de la paginación pero sin indexar, puede ser automático y cuando llega al final, vuelve al principio. Usado en la landing page, en la descripción de la experiencia y en el *home*.
   
   ![Carrusel](Elementos_patrones/carrusel.png)
   
-- Deslizadores:
+- **Deslizadores**
   utilizados en los filtros de búsqueda y en la personalización de búsqueda para evitar que el usuario ponga números negativos y que solo pueda escoger entre un rango.
   
   ![Deslizadores](Elementos_patrones/deslizadores.png)
   
-- Sección de favoritos: (ver el boceto de "Favoritos (clientes y empresas)").
+- **Sección de favoritos** (ver el boceto de "Favoritos (clientes y empresas)").
 
-- Filtros de búsqueda:
+- **Filtros de búsqueda**
   el usuario puede ordenar lo que se le muestra en el *home* según los criterios mostrados.
   
   ![Filtros de búsqueda](Elementos_patrones/filtros_busqueda.png)
   
-- Presentación de diapositivas:
+- **Presentación de diapositivas**:
   diapositivas que muestran elementos, se suelen manejar con un carrusel. Presente en el *home* y en la descripción de experiencia.
   
   ![Presentación de diapositivas](Elementos_patrones/miniaturas.png)
   
-- FAQ:
+- **FAQ (*Frequently Asked Questions*)**:
   se puede acceder en el *fat footer*.
   
   ![FAQ](Elementos_patrones/faq.png)
   
-- Página de producto:
+- **Página de producto**
   la página de descripción y personalización de experiencia tienen el papel de páginas de producto.
   
-- Carrito de la compra: (ver el boceto "Carrito (clientes)").
+- **Carrito de la compra** (ver el boceto "Carrito (clientes)").
 
-- Registro perezoso:
-  el usuario puede registrarse con una cuenta de Google o Facebook si asi lo desea.
+- **Registro perezoso**
+
+  El usuario puede registrarse con una cuenta de Google o Facebook si asi lo desea.
   
   ![Registro perezoso](Elementos_patrones/registro_perezoso.png)
   
-- Registro de cuentas.
+- **Registro de cuentas**
 
-### *Guidelines*
+  Cubierto por el punto anterior, aunque este punto no incluye el registro tradicional (por correo), por lo que lo hemos incluido en la sección de registro/inicio de sesión.
 
-- Iconos de la cabecera del *home*
-Transmiten con claridad a la página a la que llevan con un icono minimalista
+- **Preferencias / ajustes**
+
+  El usuario puede personalizar algunos ajustes de la aplicación según sus necesidades
+
+  ![Perfil (clientes)](Prototipos/perfil_clientes.png)
+
+### *Guidelines* utilizados
+
+- **Diseño por columnas**
+Para realizar el diseño del Mockup nos hemos basado en una pantalla de escritorio con un ancho de 1440 px con sus elementos distribuidos en 12 columnas y con un espacio entre columnas de 24 pixeles
+
+  ![Diseño por columnas](Elementos_patrones/columnas.png)
+
+- **Iconos de la cabecera del *home***
+Transmiten con claridad a la página a la que llevan con un icono minimalista, por ejemplo, un icono de un carrito de la compra que lleva al la pagina del carrito de la aplicación
+
+  ![Pestañas de navegación](Elementos_patrones/pestanias_navegacion.png)
+
+- ***Seams + Steps***
+Hay una separación evidente entre la cabecera/pie de página y el cuerpo, borde y color de fondo distinto
+
+  ![Pie de página](Elementos_patrones/pie_pagina.png)
+
+- ***Whiteframes***
+En algunas páginas, por ejemplo el inicio de sesión, todo el contenido destacado del formulario se encuentra en una especie de tarjeta flotante
+
+  ![Inicio de sesión (clientes y empresas)](Prototipos/inicio_sesion_clientesyempresas.png)
+
 
 
 ## Mockup: LAYOUT HI-FI
@@ -174,5 +201,9 @@ Transmiten con claridad a la página a la que llevan con un icono minimalista
 ## Documentación: Publicación del Case Study
  
 Para publicar nuestro caso de estudio, hemos utilizado [docsify](https://docsify.js.org/), una herramienta muy sencilla de aprender que ha generado un fichero HTML que coge la información del fichero README.md y la renderiza de manera bonita.
+
+Para el despliege de la web, hemos utilizado GitHub Pages.
+
+La web se aloja en el siguiente enlace: https://diu3-losmijos.github.io/DIU3.LosMijos/
 
 *Gracias, [Cherry Pink](https://github.com/Asmilex/DIU21)*
