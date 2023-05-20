@@ -4,37 +4,34 @@ Prácticas Diseño Interfaces de Usuario 2022-23 (Tema: turismo)
 Grupo: DIU3.LosMijos  Curso: 2022/23 
 Updated: 19/05/2023
 
-Proyecto: 
+**Proyecto**: 
 
  Granada Handcraft: aplicación web de compra de experiencias personalizables de artesanía nazarí en la ciudad de Granada.
 
-Descripción: 
+**Descripción**: 
 
  Nuestra aplicación web está orientada a la personalización de una especie de paquetes turísticos enfocados a la artesanía nazarí en Granada. La idea es ofrecer un conjunto de opciones elegibles por el usuario final, dotándolo de flexibilidad, de manera que tenga mayor interés en la realización de este tipo de actividades. Además, cabe reseñar que queremos involucrar a empresas locales tanto para ampliar las opciones de personalización, como fomentar una sinergia de empresas locales.
 
  En esta práctica se va a definir el estilo visual de la página web, por lo que se hará uso de diversas herramientas y metodologías de trabajo para tal fin. Estos recursos empleados se mencionarán a lo largo de este documento.
 
-Logotipo:
+**Logotipo**:
 
 ![Logotipo Granada Handcraft](P3/logo.png)
 
-Miembros
+**Miembros:**
 
  * :bust_in_silhouette:   Luis Miguel Guirado Bautista     :octocat:     
  * :bust_in_silhouette:   Miguel Ángel Serrano Villena     :octocat:
 
-GitHub: 
-
-  * https://github.com/DIU3-LosMijos/DIU3.LosMijos
+**GitHub**: https://github.com/DIU3-LosMijos/DIU3.LosMijos
 
 ----- 
 
-# Proceso de Diseño 
+## Proceso de Diseño 
 
-## Paso 1. UX Desk Research & Analisis 
+### Paso 1. UX Desk Research & Analisis 
 
-1.a Competitive Analysis
------
+#### 1.a Competitive Analysis
 
 ![Método UX](img/Competitor_analysis.png)
 
@@ -43,10 +40,9 @@ GitHub:
  Se ha comparado con La Alboreá (tablao flamenco) y Civitatis, decidiéndonos, en vista a lo recogido en el análisis, por Civitatis, porque el precio es muy bueno, hay mucha publicidad y está presente a nivel mundial, lo que resulta muy interesante para buscar experiencias allá donde se quiera viajar. Además, tiene una página web limpia y clara, con una cantidad de información relativa al evento muy elevada, contando con un sistema de valoraciones y comentairos, lo cual supone un punto especialmente relevante. Es más, cuenta con app móvil, permitiendo usar sus servicios 
 cómodamente en cualquier lugar, presentando eventos relacionados.
 
-1.b Persona
------
+#### 1.b Persona
 
-Persona 1
+##### Persona 1
 
 ![Método UX](img/Persona_1.png)
 
@@ -58,50 +54,48 @@ Persona 2
 
  He seleccionado a esta persona porque considero que encaja con uno de los posibles perfiles clásicos de las visitas a los talleres de artesanía nazarí. Esto es así porque tiene una clara inclinación por la historia de España, puesto que es profesor en un instituto, además de contar con un especial interés por el Al-Ándalus. Es por ello, que cualquier aspecto que tenga que ver con esto, como es el caso de la artesanía nazarí y la visita de una ciudad con una tradición morisca como es el caso de Granada, es de sumo interés para él.
 
-1.c User Journey Map
-----
+#### 1.c User Journey Map
 
-User Journey Map 1
+##### User Journey Map 1
 
 ![Método UX](img/JourneyMap_1.png)
 
  Puede ser cualquier persona que está al menos un poco agotada de trabajar y necesite un tiempo con sus seres queridos. Tiene muy en cuenta los detalles, el precio, las condiciones y la interactividad (como hacer tu propio cuadrante) y estos factores pueden hacerle cambiar de opinión rápidamente
 
-User Journey Map 2
+##### User Journey Map 2
 
 ![Método UX](img/JourneyMap_2.png)
 
  He escogido esta experiencia de usuario porque he considerado que cualquier persona en su situación desearía tener la oportunidad de viajar a Granada realizando una experiencia como esta, pues no deja de ser un reflejo de la cultura nazaría tanto a nivel local como de Andalucía y España. A cualquier persona como él le atraería la idea, por lo que es realmente interesante y pertinente intentar comprender cómo un perfil tan valioso para este tipo de experiencias podría reaccionar durante todo el proceso de compra de las entradas a las visitas.
 
-![Método UX](img/usabilityReview.png) 1.d Usability Review
-----
+#### 1.d Usability Review
 
  - Enlace al documento: https://github.com/DIU3-LosMijos/DIU3.LosMijos/blob/master/P1/Usability-review.pdf
  - Valoración final: 65 puntos.
  - Comentario sobre la valoración: El sitio web Artesanía Nazarí contiene numerosos defectos y problemas tanto visuales como funcionales, lo que convierte la experiencia de usuario en algo frustrante y muy alejado de una tendencia positiva a la hora de ultimar el proceso de compra de las entradas para las visitas a los talleres de artesanía nazarí. Cabe destacar lo delicado del proceso de compra, que contiene algunos fallos graves que pueden terminar por comprometer tanto a la empresa como a los clientes.
 
 
-## Paso 2. UX Design  
+### Paso 2. UX Design  
 
 
-### IDEACIÓN
+#### Ideación
 
  Tras haber analizado los defectos de las visitas a los talleres de artesanía nazarí de Granada, así como tras haber elaborado una serie de críticas constructivas en torno a esto, hemos ideado una propuesta para impulsar este tipo de experiencias en la ciudad de Granada. Para ello, hemos diseñado una aplicación web enfocada en esto mismo, pero aportando aspectos novedosos e interesantes, de cara a mejorar la experiencia de los/as usuarios/as finales: Granada Handcraft.
 
-#### Malla receptora de información
+##### Malla receptora de información
 
 Hemos elegido esta herramienta por la facilidad de uso junto con la agilidad visual que brinda a la hora de ver rápidamente aspectos relacionados con el surgimiento de la idea de nuestra aplicación web.
 
 ![Malla receptora de información](P2/malla_receptora_informacion.png)
 
-### PROPUESTA DE VALOR
+#### Propuesta de valor
 
  En la descripción del presente archivo se ha aportado información referente a nuestro proyecto web, pero a continuación vamos a reflejar una serie de aspectos relevantes de cara a conformar una estructura más sólida sobre el sentido de nuestro proyecto.
  Antes de nada, cabe mencionar que hemos analizado las necesidades de nuestros/as usuarios/as, la misión de nuestro proyecto, los objetivos a corto y largo plazo que pretendemos alcanzar como organización, las acciones que pretendemos que lleven a cabo nuestros/as usuarios/as en nuestra web, así como la forma en la que mediremos el éxito de nuestro proyecto (indicadores de éxito).
 
 ![ScopeCanvas](P2/scope_canvas.png)
 
-### TASK ANALYSIS
+#### *Task Analysis*
 
  Con la ayuda de la propuesta de valor anterior, hemos identificado quiénes serían nuestros principales usuarios/as. Encontramos dos tipos de usuarios/as: por un lado, tenemos a los/as usuarios/as que harán uso de la web para comprar experiencias y, por otro, tenemos a empresas locales que colaborarán con nosotros para aparecer como opciones en la personalización de las experiencias.
  Dicho esto, vamos a proceder a especificar más cada uno de estos/as tipos de usuarios/as:
@@ -116,15 +110,15 @@ Hemos elegido esta herramienta por la facilidad de uso junto con la agilidad vis
 
  Nota: el motivo que nos ha llevado a elegir esta herramienta es la posibilidad de comprimir una información tan amplia e importante como esta, pudiendo observar fácil y rápido la funcionalidad general del sistema y el comportamiento de los diferentes usuarios/as con esta.
 
-### ARQUITECTURA DE INFORMACIÓN
+#### Arquitectura de información
 
-#### *Sitemap*
+##### *Sitemap*
 
 Esquema de la estructura de nuestro sitio web
 
 ![Sitemap](P2/Labelling.drawio.png)
 
-#### Labelling
+##### Labelling
 
 Descripción breve de cada una de las páginas indicadas en el *Sitemap*
 
@@ -144,7 +138,7 @@ Descripción breve de cada una de las páginas indicadas en el *Sitemap*
 | **Personalización** | Exclusiva para usuarios. Aquí el usuario podrá personalizar una experiencia de acuerdo a sus necesidades (número de personas, entradas infantiles, consideraciones, servicios, etc.). Una vez terminado, el usuario podrá añadirlo al carrito o comprarlo directamente |
 
 
-### Prototipo Lo-FI Wireframe
+#### Prototipo Lo-FI Wireframe
 
  Tras todo lo anterior, en esta sección se presentan los prototipos diseñados para la interfaz de nuestra aplicación web. La misión de estos prototipos es plasmar una visión general del funcionamiento de nuestro sistema.
 
@@ -152,67 +146,67 @@ Descripción breve de cada una de las páginas indicadas en el *Sitemap*
 
  A continuación se muestran los diferentes prototipos, diferenciando las ventanas que serán vistas en función de las dos áreas diferenciadas en la landing page (clientes y empresas). Los clientes son aquel conjunto que comprará las experiencias y empresas son aquel conjunto de empresas que colaborarán con nosotros para incorporar servicios a las experiencias:
 
-#### Landing page
+##### Landing page
 
 ![Landing page](P2/Prototipos/landing_page.png)
 
-#### Inicio de sesión (clientes y empresas)
+##### Inicio de sesión (clientes y empresas)
 
 ![Inicio de sesión (clientes y empresas)](P2/Prototipos/inicio_sesion_clientesyempresas.png)
 
-#### Registro (clientes y empresas)
+##### Registro (clientes y empresas)
 
 ![Registro (clientes y empresas)](P2/Prototipos/registro_clientesyempresas.png)
 
-#### Home page (clientes y empresas)
+##### Home page (clientes y empresas)
 
 ![Home page (clientes y empresas)](P2/Prototipos/home_clientesyempresas.png)
 
-#### Favoritos (clientes y empresas)
+##### Favoritos (clientes y empresas)
 
 ![Favoritos (clientes y empresas)](P2/Prototipos/favoritos_clientesyempresas.png)
 
-#### Descripción experiencia (clientes)
+##### Descripción experiencia (clientes)
 
 ![Descripción experiencia (clientes)](P2/Prototipos/descripcion_experiencia_clientes.png)
 
-#### Personalizar experiencia (clientes)
+##### Personalizar experiencia (clientes)
 
 ![Personalizar experiencia (clientes)](P2/Prototipos/personalizar_experiencia_clientes.png)
 
-#### Panel de comentarios (clientes)
+##### Panel de comentarios (clientes)
 
 ![Panel de comentarios (clientes)](P2/Prototipos/panel_comentarios_clientes.png)
 
-#### Carrito (clientes)
+##### Carrito (clientes)
 
 ![Carrito (clientes)](P2/Prototipos/carrito_clientes.png)
 
-#### Historial (clientes)
+##### Historial (clientes)
 
 ![Historial (clientes)](P2/Prototipos/historial_clientes.png)
 
-#### Perfil (clientes)
+##### Perfil (clientes)
 
 ![Perfil (clientes)](P2/Prototipos/perfil_clientes.png)
 
-#### Finalización de la compra (clientes)
+##### Finalización de la compra (clientes)
 
 ![Finalización de la compra (clientes)](P2/Prototipos/finalizar_compra_clientes.png)
 
-#### Edición de servicios en una experiencia (empresas)
+##### Edición de servicios en una experiencia (empresas)
 
 ![Edición de servicios en una experiencia (empresas)](P2/Prototipos/edicion_servicios_experiencia_empresa.png)
 
-#### Descripción experiencia (empresas)
+##### Descripción experiencia (empresas)
 
 ![Descripción experiencia (empresas)](P2/Prototipos/descripcion_experiencia_empresas.png)
 
-#### Perfil (empresas)
+##### Perfil (empresas)
 
 ![Perfil (empresas)](P2/Prototipos/perfil_empresas.png)
 
-### CONCLUSIONES  
+#### Conclusiones  
 
  A lo largo de esta etapa se ha ido desarrollando una paulatina orientación al diseño, velando por identificar aquellas críticas constructivas de la etapa anterior, de manera que fuera posible diseñar una aplicación web que, además de mejorar estos aspectos señalados, aportase cierto grado de valor añadido. Es por esto que se ha realizado un análisis de tareas, fundamental también de cara al siguiente paso del proceso (arquitectura de información). Finalmente, se ha procedido a realizar un prototipo de diseño preliminar que refleje un poco la estructura y funcionamiento de nuestro proyecto.
 
@@ -221,22 +215,22 @@ Descripción breve de cada una de las páginas indicadas en el *Sitemap*
  Tras todo lo anteriormente comentado, hemos podido comprobar la relevancia y complejidad de la etapa de diseño, pues surgen numerosas preguntas e inquietudes a las que hay que dar respuesta para que las etapas posteriores puedan tener la suficiente consistencia y valor.
 
 
-## Paso 3. Mi UX-Case Study (diseño)
+### Paso 3. Mi UX-Case Study (diseño)
 
 
-## Moodboard (diseño visual + logotipo)   
+#### Moodboard (diseño visual + logotipo)   
 
  La primera fase de este proceso consiste en desarrollar un tablero de inspiración que recoja diferentes aspectos de diseño de nuestra página web. No todo lo que aparezca en este tablero debe de aparecer en los bocetos HI-FI que se van a perfilar de la práctica anterior, aunque es importante lograr que haya consistencia entre el resultado final de dicho tablero y el de los mencionados bocetos.
 
 ![moodboard](P3/moodboard.png)
 
-## Landing Page
+#### Landing Page
 
 ![Landing page](P3/Prototipos/landing_page.png)
 
-## Patrones y *Guidelines* usados
+#### Patrones y *Guidelines* usados
 
-### Patrones de interfaz de usuario
+##### Patrones de interfaz de usuario
 
 - Pestañas de navegación:
   los usuarios pueden acceder a secciones importantes de la aplicación mediante un conjunto de botones que cumplen con la misma funcionalidad que puede tener un conjunto de pestañas.       Presente en todas las páginas salvo en *landing page*.
@@ -302,93 +296,93 @@ Descripción breve de cada una de las páginas indicadas en el *Sitemap*
   
 - Registro de cuentas.
 
-### *Guidelines*
+##### *Guidelines*
 
 - Iconos de la cabecera del *home*
 Transmiten con claridad a la página a la que llevan con un icono minimalista
 
+to-do!
 
-## Mockup: LAYOUT HI-FI
+
+#### Mockup: LAYOUT HI-FI
 
  Dado que en la práctica anterior realizamos unos prototipos con más detalle del debido, en esta ocasión nos hemos centrado en matizar ciertos detalles en base al moodboard presentado al principio. Es por esto que hemos vuelto a utilizar Figma como herramienta para este apartado, pues nos ha permitido aplicar los estilos requeridos sin nigún problema. Sin más dilación, el resultado del refinamiento de esos bocetos, quitando la landing page presentada en el apartado anterior, es el que sigue:
 
-#### Inicio de sesión (clientes y empresas)
+##### Inicio de sesión (clientes y empresas)
 
 ![Inicio de sesión (clientes y empresas)](P3/Prototipos/inicio_sesion_clientesyempresas.png)
 
-#### Registro (clientes y empresas)
+##### Registro (clientes y empresas)
 
 ![Registro (clientes y empresas)](P3/Prototipos/registro_clientesyempresas.png)
 
-#### Home page (clientes y empresas)
+##### Home page (clientes y empresas)
 
 ![Home page (clientes y empresas)](P3/Prototipos/home_clientesyempresas.png)
 
-#### Favoritos (clientes y empresas)
+##### Favoritos (clientes y empresas)
 
 ![Favoritos (clientes y empresas)](P3/Prototipos/favoritos_clientesyempresas.png)
 
-#### Descripción experiencia (clientes)
+##### Descripción experiencia (clientes)
 
 ![Descripción experiencia (clientes)](P3/Prototipos/descripcion_experiencia_clientes.png)
 
-#### Personalizar experiencia (clientes)
+##### Personalizar experiencia (clientes)
 
 ![Personalizar experiencia (clientes)](P3/Prototipos/personalizar_experiencia_clientes.png)
 
-#### Panel de comentarios (clientes)
+##### Panel de comentarios (clientes)
 
 ![Panel de comentarios (clientes)](P3/Prototipos/panel_comentarios_clientes.png)
 
-#### Carrito (clientes)
+##### Carrito (clientes)
 
 ![Carrito (clientes)](P3/Prototipos/carrito_clientes.png)
 
-#### Historial (clientes)
+##### Historial (clientes)
 
 ![Historial (clientes)](P3/Prototipos/historial_clientes.png)
 
-#### Perfil (clientes)
+##### Perfil (clientes)
 
 ![Perfil (clientes)](P3/Prototipos/perfil_clientes.png)
 
-#### Finalización de la compra (clientes)
+##### Finalización de la compra (clientes)
 
 ![Finalización de la compra (clientes)](P3/Prototipos/finalizar_compra_clientes.png)
 
-#### Edición de servicios en una experiencia (empresas)
+##### Edición de servicios en una experiencia (empresas)
 
 ![Edición de servicios en una experiencia (empresas)](P3/Prototipos/edicion_servicios_experiencia_empresa.png)
 
-#### Descripción experiencia (empresas)
+##### Descripción experiencia (empresas)
 
 ![Descripción experiencia (empresas)](P3/Prototipos/descripcion_experiencia_empresas.png)
 
-#### Perfil (empresas)
+##### Perfil (empresas)
 
 ![Perfil (empresas)](P3/Prototipos/perfil_empresas.png)
 
-## Documentación: Publicación del Case Study
+#### Documentación: Publicación del Case Study
  
-Planteamos el *moodboard* y parte del *layout* de forma no intencionada durante la práctica 2, de forma que solamente teníamos que refinar el trabajo anterior
-para que se ajustase a los objetivos de esta práctica.
+Para publicar nuestro caso de estudio, hemos utilizado [docsify](https://docsify.js.org/), una herramienta muy sencilla de aprender que ha generado un fichero HTML que coge la información del fichero README.md y la renderiza de manera bonita.
 
-De momento, el proceso de diseño está siendo bastante favorable; existen algunas cosas más que se podrían revisar de los patrones de la interfaz:
-- Inicio de la *landing page*: al principio hay una imagen grande y centrada que no transmite información al usuario y con espacio desaprovechado.
-- Uso de deslizadores en la entrada de enteros. Puede no ser una opción adecuada en ciertos casos, pero se resalta que son de tipo discreto.
+*Gracias, [Cherry Pink](https://github.com/Asmilex/DIU21)*
 
+---
 
 ## Paso 4. Evaluación 
 
 
-![Método UX](img/ABtesting.png) 4.a Caso asignado
+4.a Caso asignado
 ----
 
 
  Breve descripción del caso asignado con enlace a  su repositorio Github
 
 
-![Método UX](img/usability-testing.png) 4.b User Testing
+4.b User Testing
 ----
 
  Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
