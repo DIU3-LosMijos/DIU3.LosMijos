@@ -51,7 +51,17 @@ Se ha utilizado la herramienta Gaze Recorder. Para ello, simplemente se han esco
 
 ![Prototipo 4](ResultadosExperimento_Usuario2/usuario2_p4.png)
 
-## RESUMEN 
+### Usuario experto
+
+![Prototipo 1](ResultadosExperimento_UsuarioExperto/usuarioExperto_p1.png)
+
+![Prototipo 2](ResultadosExperimento_UsuarioExperto/usuarioExperto_p2.png)
+
+![Prototipo 3](ResultadosExperimento_UsuarioExperto/usuarioExperto_p3.png)
+
+![Prototipo 4](ResultadosExperimento_UsuarioExperto/usuarioExperto_p4.png)
+
+## Conclusiones
 
 Conclusiones de apartados anteriores 
 
