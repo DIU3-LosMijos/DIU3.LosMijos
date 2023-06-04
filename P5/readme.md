@@ -27,12 +27,21 @@ GitHub:
 
   * https://github.com/DIU3-LosMijos/DIU3.LosMijos
 
-### [WCAG A11Y]  pautas de accesibilidad
+## Diseño del experimento
 
-### [A11Y SIMULATOR] simulador de discapacidad 
+Se ha utilizado la herramienta Gaze Recorder. Para ello, simplemente se han escogido cuatro prototipos de nuestro diseño que suponnen lo más importante de éste y se han adjuntado en el experimento, de cara a comprobar si los dos usuarios a los que se les ha realizado ponen el foco visual en los elementos que deberían para desarrollar, de una forma correcta y ágil, lo que se supone que representan estos diseños. Sin más dilación, se presentan los resultados de ambos usuarios:
 
+### Usuario 1
 
-### RESUMEN 
+![Prototipo 1](ResultadosExperimento_Usuario1/usuario1_p1.png)
+
+![Prototipo 2](ResultadosExperimento_Usuario1/usuario1_p2.png)
+
+![Prototipo 3](ResultadosExperimento_Usuario1/usuario1_p3.png)
+
+![Prototipo 4](ResultadosExperimento_Usuario1/usuario1_p4.png)
+
+## RESUMEN 
 
 Conclusiones de apartados anteriores 
 
