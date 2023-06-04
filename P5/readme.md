@@ -41,7 +41,7 @@ GitHub:
 
 ![Prototipo 4](ResultadosExperimento_Usuario1/usuario1_p4.png)
 
-Los resultados de este usuario arrojan que, como se esperaba, el foco visual lo pone, de manera más o menos precisa, en aquellos elementos relevantes de cada prototipo, teniendo en cuenta la funcionalidad que representa cada uno.
+>> Los resultados de este usuario arrojan que, como se esperaba, el foco visual lo pone, de manera más o menos precisa, en aquellos elementos relevantes de cada prototipo, teniendo en cuenta la funcionalidad que representa cada uno.
 
 ### Usuario 2
 
@@ -53,7 +53,7 @@ Los resultados de este usuario arrojan que, como se esperaba, el foco visual lo 
 
 ![Prototipo 4](ResultadosExperimento_Usuario2/usuario2_p4.png)
 
-Aquí va el análisis de los resultados del usuario x.
+>> Aquí va el análisis de los resultados del usuario x.
 
 ### Usuario experto
 
@@ -65,10 +65,10 @@ Aquí va el análisis de los resultados del usuario x.
 
 ![Prototipo 4](ResultadosExperimento_UsuarioExperto/usuarioExperto_p4.png)
 
-El usuario experto, como se puede observar, pone el foco de manera más precisa en esos elementos que esperamos sean el foco principal de los usuarios, aunque va en consonancia con los resultados obtenidos por los dos usuarios anteriores.
+>> El usuario experto, como se puede observar, pone el foco de manera más precisa en esos elementos que esperamos sean el foco principal de los usuarios, aunque va en consonancia con los resultados obtenidos por los dos usuarios anteriores.
 
 ## Conclusiones
 
-De todo lo anterior podemos extraer que el diseño, aunque tiene sus puntos débiles, no está mal enfocado, puesto que el foco visual se ha puesto en todos los casos donde corresponde, permitiendo concluir que, en principio, cabe pensar que, por un lado, el diseño es suficientemente compacto y armonioso como para evitar distracciones innecesarias hacia otros elementos secundarios que podrían provocar problemas a la hora de utilizar el sistema y, por otro, que las funcionalidades están suficientiemente claras y bien definidas. 
+>> De todo lo anterior podemos extraer que el diseño, aunque tiene sus puntos débiles, no está mal enfocado, puesto que el foco visual se ha puesto en todos los casos donde corresponde, permitiendo concluir que, en principio, cabe pensar que, por un lado, el diseño es suficientemente compacto y armonioso como para evitar distracciones innecesarias hacia otros elementos secundarios que podrían provocar problemas a la hora de utilizar el sistema y, por otro, que las funcionalidades están suficientiemente claras y bien definidas. 
 
-Los puntos fuertes están incluidos en el párrafo anterior, aunque no se menciona que, por supuesto, hay puntos de mejora en los diseños propuestos que pueden dotar a nuestro sistema de una claridad y sencillez más apropiadas. En esta línea, cabe destacar el contar con un pie de página (footer) algo menos invasivo, así como esparcir los elementos de aquellos prototipos con más carga de información de una manera más óptima y equilibrada, sustituyendo, quizás, algunos elementos por otros que incluyan varios a su vez (como, por ejemplo, selectores, cuyas opciones se encuentran inicialmente plegadas en el propio elemento).
+>> Los puntos fuertes están incluidos en el párrafo anterior, aunque no se menciona que, por supuesto, hay puntos de mejora en los diseños propuestos que pueden dotar a nuestro sistema de una claridad y sencillez más apropiadas. En esta línea, cabe destacar el contar con un pie de página (footer) algo menos invasivo, así como esparcir los elementos de aquellos prototipos con más carga de información de una manera más óptima y equilibrada, sustituyendo, quizás, algunos elementos por otros que incluyan varios a su vez (como, por ejemplo, selectores, cuyas opciones se encuentran inicialmente plegadas en el propio elemento).
