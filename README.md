@@ -455,8 +455,7 @@ El diseño tiene una serie de puntos que habría que corregir, pues rompen un po
 
  ## Paso 5. Evaluación de Accesibilidad  (no necesaria)
 
-
-5.a Accesibility evaluation Report 
+## Accesibility evaluation Report 
 ----
 
 >> Se ha evaluado si el diseño de algunos de los prototipos de nuestro sistema (los más relevantes) permitiría a los usuarios identificar los elementos claves de cada ventana y, de esta manera, poder llevar a cabo la funcionalidad que representan dichos prototipos.
@@ -467,37 +466,37 @@ El diseño tiene una serie de puntos que habría que corregir, pues rompen un po
 
 ### Usuario 1
 
-![Prototipo 1](ResultadosExperimento_Usuario1/usuario1_p1.png)
+![Prototipo 1](P5/ResultadosExperimento_Usuario1/usuario1_p1.png)
 
-![Prototipo 2](ResultadosExperimento_Usuario1/usuario1_p2.png)
+![Prototipo 2](P5/ResultadosExperimento_Usuario1/usuario1_p2.png)
 
-![Prototipo 3](ResultadosExperimento_Usuario1/usuario1_p3.png)
+![Prototipo 3](P5/ResultadosExperimento_Usuario1/usuario1_p3.png)
 
-![Prototipo 4](ResultadosExperimento_Usuario1/usuario1_p4.png)
+![Prototipo 4](P5/ResultadosExperimento_Usuario1/usuario1_p4.png)
 
 >> Los resultados de este usuario arrojan que, como se esperaba, el foco visual lo pone, de manera más o menos precisa, en aquellos elementos relevantes de cada prototipo, teniendo en cuenta la funcionalidad que representa cada uno.
 
 ### Usuario 2
 
-![Prototipo 1](ResultadosExperimento_Usuario2/usuario2_p1.png)
+![Prototipo 1](P5/ResultadosExperimento_Usuario2/usuario2_p1.png)
 
-![Prototipo 2](ResultadosExperimento_Usuario2/usuario2_p2.png)
+![Prototipo 2](P5/ResultadosExperimento_Usuario2/usuario2_p2.png)
 
-![Prototipo 3](ResultadosExperimento_Usuario2/usuario2_p3.png)
+![Prototipo 3](P5/ResultadosExperimento_Usuario2/usuario2_p3.png)
 
-![Prototipo 4](ResultadosExperimento_Usuario2/usuario2_p4.png)
+![Prototipo 4](P5/ResultadosExperimento_Usuario2/usuario2_p4.png)
 
 >> Aquí va el análisis de los resultados del usuario x.
 
 ### Usuario experto
 
-![Prototipo 1](ResultadosExperimento_UsuarioExperto/usuarioExperto_p1.png)
+![Prototipo 1](P5/ResultadosExperimento_UsuarioExperto/usuarioExperto_p1.png)
 
-![Prototipo 2](ResultadosExperimento_UsuarioExperto/usuarioExperto_p2.png)
+![Prototipo 2](P5/ResultadosExperimento_UsuarioExperto/usuarioExperto_p2.png)
 
-![Prototipo 3](ResultadosExperimento_UsuarioExperto/usuarioExperto_p3.png)
+![Prototipo 3](P5/ResultadosExperimento_UsuarioExperto/usuarioExperto_p3.png)
 
-![Prototipo 4](ResultadosExperimento_UsuarioExperto/usuarioExperto_p4.png)
+![Prototipo 4](P5/ResultadosExperimento_UsuarioExperto/usuarioExperto_p4.png)
 
 >> El usuario experto, como se puede observar, pone el foco de manera más precisa en esos elementos que esperamos sean el foco principal de los usuarios, aunque va en consonancia con los resultados obtenidos por los dos usuarios anteriores.
 
