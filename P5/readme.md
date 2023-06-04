@@ -2,7 +2,7 @@
 Prácticas Diseño Interfaces de Usuario 2022-23 (Tema: turismo)
 
 **Grupo**: DIU3.LosMijos  **Curso**: 2022/23 
-Actualizado: 04/06/2023
+**Actualizado**: 04/06/2023
 
 **Proyecto**: 
 
