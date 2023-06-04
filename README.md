@@ -407,42 +407,51 @@ La web se aloja en el siguiente enlace: https://diu3-losmijos.github.io/DIU3.Los
 ----
 
 
- Breve descripción del caso asignado con enlace a  su repositorio Github
+Esta página web ofrece actividades de ocio relacionadas con el flamenco, así como
+información acerca de este tema, tal como ofertas y actividades destacadas. Dentro del
+sistema es posible realizar un registro como usuario, teniendo la posibilidad, además, de
+realizar búsquedas utilizando varios filtros.
+
+Repositorio del equipo creador del prototipo objeto de estudio:
+https://github.com/pgonzs08/DIU_Salvame_Deluxe
 
 
 4.b User Testing
 ----
 
- Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
- 
+![Usuarios](P4/participantes.png)
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+Para ver una información más amplia, ver el informe de usabilidad [aquí](#Usability-Report-de-Caso-B).
 
-
-![Método UX](img/Survey.png). 4.c Cuestionario SUS
+4.c Cuestionario SUS
 ----
 
- Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
+![Cuestionaario SUS](P4/cuestionarioSUS.png)
+Documento PDF: ![Cuestionaario SUS](P4/CuestionarioSUS.pdf)
 
- Adjuntar captura de imagen con los resultados + Valoración personal 
-
-
-![Método UX](img/usability-report.png) 4.d Usability Report
+4.d Tareas realizadas
 ----
 
- Añadir report de usabilidad para práctica B (la de los compañeros)
+![Tareas realizadas](P4/tareas_realizadas.png)
 
+4.d Usability Report de Caso B
+----
 
+Documento PDF con el informe completo: ![Usability Report](P4_UsabReport_DIU1_Salvame_Deluxe_doneby_DIU3_LosMijos.pdf)
 
- Valoración personal 
+El diseño tiene una serie de puntos que habría que corregir, pues rompen un poco con la armonía visual e incluso funcional del sistema. Una vez subsanados estos puntos, el diseño pasaría a tener consistencia, apreciándose una mejora notable con poco esfuerzo más en el proceso de depuración y reconceptualización del diseño del prototipado. Los puntos referidos son los siguientes:
 
+- El logo está como fuera del resto del encabezado de la página web, cuando éste siempre es importante, puesto que es la marca de la empresa (muchas veces ayuda a las personas a reconocerla rápidamente); es importante que esté más marcado su lugar en el encabezado.
+
+- Falta de consistencia entre ventanas. Como ejemplo cabe mencionar que la página del “Buscador” y la de “Conoce el flamenco” presentan entre ellas algunas diferencias reseñables pese a que cuentan con la misma estructura: en la primera, el fondo de los elementos centrales es blanco y, en la segunda, es verde oscuro. Sin entrar en el análisis de qué colores son mejores o peores, debería de existir coherencia entre todas las ventanas. También cabe mencionar que el redondeado de las cajas no sigue un mismo patrón. Además, en este mismo punto, aparece lo que se conoce como miga de pan (ruta de dónde se encuentra el usuario en un momento dado dentro del sitio web), aunque solo aparece en los dos primeros prototipos.
+
+- En la página del “Buscador”, la parte destinada a interactuar con el usuario de cara a aplicar ciertos filtros de búsqueda, no se ha realizado de una manera consistente, puesto que no se distingue claramente la etiqueta del campo del input donde se introducirá realmente el valor para el filtrado. Es decir, como ejemplo, el campo de “Fecha” (la etiqueta) puede confundirse con el propio input.
+
+- Aunque no era el objetivo principal del prototipo, hubiese estado bien aportar algún diseño para el proceso de compra, ya que se puede observar la opción de comprar en cada espectáculo, pero, sin embargo, no hay ninguna forma de poder analizar esta parte del proceso que siempre es importante.
+
+- En la landing page faltaría la posibilidad de saltar al formulario de registro, puesto que es una funcionalidad con la que cuenta el sistema y, para poder hacerlo, habría que pasar de esta ventana.
+
+- En la paleta de colores del moodboard del prototipo aparece el negro como color destacado, pero no se ve resaltado en los prototipos. En cambio, el naranja es el color mayoritario y aparece en dicho moodboard como color menos destacable.
 
  ## Paso 5. Evaluación de Accesibilidad  (no necesaria)
 
