@@ -24,11 +24,11 @@ Documento PDF: ![Cuestionaario SUS](CuestionarioSUS.pdf)
 
 ## Tareas realizadas
 
-![Tareas realizadas](tareas_realizadas.pdf)
+![Tareas realizadas](tareas_realizadas.png)
 
 ## Usability Report de Caso B
 
-![Usability Report](P4_UsabReport_DIU1_Salvame_Deluxe_doneby_DIU3_LosMijos.pdf)
+Documento PDF con el informe completo: ![Usability Report](P4_UsabReport_DIU1_Salvame_Deluxe_doneby_DIU3_LosMijos.pdf)
 
 ## Conclusiones
 
