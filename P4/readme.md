@@ -19,7 +19,8 @@ GitHub:
 
 ## Cuestionario SUS
 
-![Cuestionaario SUS](CuestionarioSUS.pdf)
+![Cuestionaario SUS](CuestionarioSUS.png)
+Documento PDF: (CuestionarioSUS.pdf)
 
 ## Tareas realizadas
 
