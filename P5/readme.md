@@ -53,7 +53,7 @@ En esta práctica se va a definir el estilo visual de la página web, por lo que
 
 ![Prototipo 4](ResultadosExperimento_Usuario2/usuario2_p4.png)
 
-Observando los resultados obtenidos, podemos ver que las zonas observadas se intensifican todavía más con respecto al primer usuario en las partes relevantes de cada una de las páginas.
+>> Observando los resultados obtenidos, podemos ver que las zonas observadas se intensifican todavía más con respecto al primer usuario en las partes relevantes de cada una de las páginas.
 
 ### Usuario experto
 
