@@ -41,6 +41,8 @@ Se ha utilizado la herramienta Gaze Recorder. Para ello, simplemente se han esco
 
 ![Prototipo 4](ResultadosExperimento_Usuario1/usuario1_p4.png)
 
+Aquí va el análisis de los resultados del usuario x.
+
 ### Usuario 2
 
 ![Prototipo 1](ResultadosExperimento_Usuario2/usuario2_p1.png)
@@ -51,6 +53,8 @@ Se ha utilizado la herramienta Gaze Recorder. Para ello, simplemente se han esco
 
 ![Prototipo 4](ResultadosExperimento_Usuario2/usuario2_p4.png)
 
+Aquí va el análisis de los resultados del usuario x.
+
 ### Usuario experto
 
 ![Prototipo 1](ResultadosExperimento_UsuarioExperto/usuarioExperto_p1.png)
@@ -60,6 +64,8 @@ Se ha utilizado la herramienta Gaze Recorder. Para ello, simplemente se han esco
 ![Prototipo 3](ResultadosExperimento_UsuarioExperto/usuarioExperto_p3.png)
 
 ![Prototipo 4](ResultadosExperimento_UsuarioExperto/usuarioExperto_p4.png)
+
+Aquí va el análisis de los resultados del usuario x.
 
 ## Conclusiones
 
