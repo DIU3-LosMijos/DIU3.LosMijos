@@ -456,34 +456,55 @@ El diseño tiene una serie de puntos que habría que corregir, pues rompen un po
  ## Paso 5. Evaluación de Accesibilidad  (no necesaria)
 
 
- ![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report 
-> ----
+5.a Accesibility evaluation Report 
+----
 
- Indica qué pretendes evaluar (de accesibilidad) sobre qué APP y qué resultados has obtenido 
+>> Se ha evaluado si el diseño de algunos de los prototipos de nuestro sistema (los más relevantes) permitiría a los usuarios identificar los elementos claves de cada ventana y, de esta manera, poder llevar a cabo la funcionalidad que representan dichos prototipos.
+>> Se ha utilizado para ello una herramienta llamada Gaze Recorder, basada en la idea de seguimiento ocular. El seguimiento ocular con cámara web detecta la ubicación de la mirada de una persona mediante una cámara web en lugar de un rastreador ocular real con iluminadores infrarrojos. No requiere equipo sofisticado y los participantes no tienen que ir a un laboratorio. Pueden hacerlo de forma remota detrás de sus pantallas solo con una cámara web y una buena conexión a Internet.
+>> El seguimiento ocular basado en software generalmente se basa en una calibración explícita para desarrollar un modelo de autoaprendizaje que se basa en la ubicación de la mirada del usuario en coordinación con el mecanismo de calibración.
 
- 5.a) Evaluación de la Accesibilidad (con simuladores o verificación de WACG) 
- 5.b) Uso de simuladores de accesibilidad 
+>> Los resultados del experimento para dos usuarios estándar y uno experto son los siguientes:
 
- (uso de tabla de datos, indicar herramientas usadas) 
+### Usuario 1
 
- 5.c Breve resumen del estudio de accesibilidad (de práctica 1) y puntos fuertes y de mejora de los criterios de accesibilidad de tu diseño propuesto en Práctica 4.
+![Prototipo 1](ResultadosExperimento_Usuario1/usuario1_p1.png)
 
+![Prototipo 2](ResultadosExperimento_Usuario1/usuario1_p2.png)
 
+![Prototipo 3](ResultadosExperimento_Usuario1/usuario1_p3.png)
+
+![Prototipo 4](ResultadosExperimento_Usuario1/usuario1_p4.png)
+
+>> Los resultados de este usuario arrojan que, como se esperaba, el foco visual lo pone, de manera más o menos precisa, en aquellos elementos relevantes de cada prototipo, teniendo en cuenta la funcionalidad que representa cada uno.
+
+### Usuario 2
+
+![Prototipo 1](ResultadosExperimento_Usuario2/usuario2_p1.png)
+
+![Prototipo 2](ResultadosExperimento_Usuario2/usuario2_p2.png)
+
+![Prototipo 3](ResultadosExperimento_Usuario2/usuario2_p3.png)
+
+![Prototipo 4](ResultadosExperimento_Usuario2/usuario2_p4.png)
+
+>> Aquí va el análisis de los resultados del usuario x.
+
+### Usuario experto
+
+![Prototipo 1](ResultadosExperimento_UsuarioExperto/usuarioExperto_p1.png)
+
+![Prototipo 2](ResultadosExperimento_UsuarioExperto/usuarioExperto_p2.png)
+
+![Prototipo 3](ResultadosExperimento_UsuarioExperto/usuarioExperto_p3.png)
+
+![Prototipo 4](ResultadosExperimento_UsuarioExperto/usuarioExperto_p4.png)
+
+>> El usuario experto, como se puede observar, pone el foco de manera más precisa en esos elementos que esperamos sean el foco principal de los usuarios, aunque va en consonancia con los resultados obtenidos por los dos usuarios anteriores.
 
 ## Conclusión final / Valoración de las prácticas
 
+>> De todo lo anterior podemos extraer que el diseño, aunque tiene sus puntos débiles, no está mal enfocado, puesto que el foco visual se ha puesto en todos los casos donde corresponde, permitiendo concluir que, en principio, cabe pensar que, por un lado, el diseño es suficientemente compacto y armonioso como para evitar distracciones innecesarias hacia otros elementos secundarios que podrían provocar problemas a la hora de utilizar el sistema y, por otro, que las funcionalidades están suficientiemente claras y bien definidas. 
 
- (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
+>> Los puntos fuertes están incluidos en el párrafo anterior, aunque no se menciona que, por supuesto, hay puntos de mejora en los diseños propuestos que pueden dotar a nuestro sistema de una claridad y sencillez más apropiadas. En esta línea, cabe destacar el contar con un pie de página (footer) algo menos invasivo, así como esparcir los elementos de aquellos prototipos con más carga de información de una manera más óptima y equilibrada, sustituyendo, quizás, algunos elementos por otros que incluyan varios a su vez (como, por ejemplo, selectores, cuyas opciones se encuentran inicialmente plegadas en el propio elemento).
 
-
-
-
-
-
-
-
-
-
-
-
-
+>> Para finalizar, el proceso seguido a lo largo de las prácticas de la asignatura nos ha permitido adquirir una visión general de todo lo que hay que tener en cuenta a la hora de elaborar un diseño que sea, al menos, coherente con lo que se pretende lograr. Nos hemos dado cuenta de que se hace necesario reconceptualizar ciertos elementos del diseño conforme se avanza en la elaboración, obligando a volver a fases previas del proceso. Nos ha quedado claro que, pese a que el diseño sigue siendo una parte que pasa a segundo plano, solapada por el desarrollo de la funcionalidad, es algo imprescindible para el éxito del proyecto, pues puede contribuir a que una aplición o programa no tenga futuro, por muchos esfuerzos y recursos que se hayan destinado a implementar una funcionalidad exhaustiva y robusta. No es fácil conseguir un buen diseño, pues confluyen muchas variables, aunque hemos aprendido que hay técnicas y elementos para los que existe un consenso en cuanto a que su uso se relaciona con buenas prácticas. Es importante estar actualizado, pues todo va cambiando con el tiempo y las buenas prácticas, por ende, también van evolucionando; no hay nada más trascendental que adaptarse al contexto y esto es aplicable a todo en la vida.
