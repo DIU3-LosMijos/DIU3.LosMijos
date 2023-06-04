@@ -1,9 +1,8 @@
 # DIU - Practica 4, entregables
 
+* Usuarios
 
-* Users 
 
-Elección y características
 
 * A/B Testing. 
 
