@@ -29,7 +29,7 @@ GitHub:
 
 ## Diseño del experimento
 
-Se ha utilizado la herramienta Gaze Recorder. Para ello, simplemente se han escogido cuatro prototipos de nuestro diseño que suponnen lo más importante de éste y se han adjuntado en el experimento, de cara a comprobar si los dos usuarios a los que se les ha realizado ponen el foco visual en los elementos que deberían para desarrollar, de una forma correcta y ágil, lo que se supone que representan estos diseños. Sin más dilación, se presentan los resultados de ambos usuarios:
+>> Se ha utilizado la herramienta Gaze Recorder. Para ello, simplemente se han escogido cuatro prototipos de nuestro diseño que suponnen lo más importante de éste y se han adjuntado en el experimento, de cara a comprobar si los dos usuarios a los que se les ha realizado ponen el foco visual en los elementos que deberían para desarrollar, de una forma correcta y ágil, lo que se supone que representan estos diseños. Sin más dilación, se presentan los resultados de ambos usuarios:
 
 ### Usuario 1
 
