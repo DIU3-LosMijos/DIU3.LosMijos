@@ -17,7 +17,7 @@ GitHub:
 
 ![Usuarios](participantes.png)
 
-Para ver una información más amplia, ver el informe de usabilidad.
+Para ver una información más amplia, ver el informe de usabilidad [Informe de usabilidad](#Usability-Report-de-Caso-B).
 
 ## Cuestionario SUS
 
