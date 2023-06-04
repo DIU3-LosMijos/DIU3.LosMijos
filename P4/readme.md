@@ -1,15 +1,15 @@
 # DIU - Practica 4
 Prácticas Diseño Interfaces de Usuario 2022-23 (Tema: turismo)
 
-Grupo: DIU3.LosMijos  Curso: 2022/23
+**Grupo**: DIU3.LosMijos  **Curso**: 2022/23
 Actualizado: 04/06/2023
 
-Miembros
+**Miembros**:
 
  * :bust_in_silhouette:   Luis Miguel Guirado Bautista     :octocat:     
  * :bust_in_silhouette:   Miguel Ángel Serrano Villena     :octocat:
 
-GitHub: 
+**GitHub**: 
 
   * https://github.com/DIU3-LosMijos/DIU3.LosMijos
 
