@@ -17,6 +17,8 @@ GitHub:
 
 ![Usuarios](participantes.png)
 
+Para ver una información más amplia, ver el informe de usabilidad.
+
 ## Cuestionario SUS
 
 ![Cuestionaario SUS](cuestionarioSUS.png)
