@@ -421,7 +421,7 @@ https://github.com/pgonzs08/DIU_Salvame_Deluxe
 
 ![Usuarios](P4/participantes.png)
 
-Para ver una información más amplia, ver el informe de usabilidad [aquí](#Usability-Report-de-Caso-B).
+Para ver una información más amplia, ver el informe de usabilidad [aquí](#4.e-Usability-Report-de-Caso-B).
 
 4.c Cuestionario SUS
 ----
@@ -434,7 +434,7 @@ Documento PDF: ![Cuestionaario SUS](P4/CuestionarioSUS.pdf)
 
 ![Tareas realizadas](P4/tareas_realizadas.png)
 
-4.d Usability Report de Caso B
+4.e Usability Report de Caso B
 ----
 
 Documento PDF con el informe completo: ![Usability Report](P4_UsabReport_DIU1_Salvame_Deluxe_doneby_DIU3_LosMijos.pdf)
