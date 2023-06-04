@@ -486,7 +486,7 @@ El diseño tiene una serie de puntos que habría que corregir, pues rompen un po
 
 ![Prototipo 4](P5/ResultadosExperimento_Usuario2/usuario2_p4.png)
 
->> Aquí va el análisis de los resultados del usuario x.
+>> Observando los resultados obtenidos, podemos ver que las zonas observadas se intensifican todavía más con respecto al primer usuario en las partes relevantes de cada una de las páginas.
 
 ### Usuario experto
 
